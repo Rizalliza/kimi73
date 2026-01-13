@@ -1,0 +1,101 @@
+[
+    {
+        "poolAddress": "BVRbyLjjfSBcoyiYFuxbgKYnWuiFaF9CSXEa5vdSZ9Hh",
+        "dex": "meteora",
+        "poolType": "DLMM",
+        "baseToken": { "mint": "So11111111111111111111111111111111111111112", "symbol": "SOL", "decimals": 9 },
+        "quoteToken": { "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v", "symbol": "USDC", "decimals": 6 },
+        "fee": 0.00002,
+      
+        "raw": {
+          "mint_x": "So11111111111111111111111111111111111111112",
+          "mint_y": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "reserve_x": null,
+          "reserve_y": null,
+          "bin_step": 20
+        }
+      },
+      {
+        "baseMint": "So11111111111111111111111111111111111111112",
+        "quoteMint": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+        "baseDecimals": 9,
+        "quoteDecimals": 9,
+        "fee": 0.003,
+        "feeRate": 0.003,
+        "vaults": {
+          "xVault": "So11111111111111111111111111111111111111112",
+          "yVault": "F7tcS67EfP4bBJhWLxCk6ZmPVcsmPnJvPLQcDw5eeR67"
+        },
+        "raw": {
+            "address": "Hp53XEtt4S8SvPCXarsLSdGfZBuUr5mMmZmX2DRNXQKp",
+            "name": "SOL-jitoSOL",
+            "mint_x": "So11111111111111111111111111111111111111112",
+            "mint_y": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+            "reserve_x": null,
+            "reserve_y": null,
+            "reserve_x_amount": "65498278859716",
+            "reserve_y_amount": "15719586926332079",
+            "bin_step": 1,
+            "base_fee_percentage": "0.3",
+            "max_fee_percentage": "0.3",
+            "liquidity": "31439173.85"
+      }
+    },
+    {
+        "poolAddress": "cpmmPoolPubkey",
+        "dex": "raydium",
+        "poolType": "CPMM",
+        "type": "cpmm",
+      
+        "baseToken": { "mint": "mintX", "symbol": "TOKENX", "decimals": 9 },
+        "quoteToken": { "mint": "mintY", "symbol": "TOKENY", "decimals": 6 },
+      
+        "fee": 0.0025,
+      
+        "raw": {
+          "vault_x": "vaultXPubkey",
+          "vault_y": "vaultYPubkey"
+        }
+      },
+      {
+        "poolAddress": "clmmPoolStatePubkey",
+        "dex": "raydium",
+        "poolType": "CLMM",
+        "type": "clmm",
+      
+        "tokenA": { "mint": "mintA", "symbol": "TOKENA", "decimals": 9 },
+        "tokenB": { "mint": "mintB", "symbol": "TOKENB", "decimals": 6 },
+      
+        "tickSpacing": 64,
+        "feeRate": 0.0005,
+      
+        "raw": {
+          "vault_a": "vaultAPubkey",
+          "vault_b": "vaultBPubkey",
+          "ammConfig": "ammConfigPubkey"
+        }
+      },
+      {
+        "poolAddress": "ies9H9m19fZDxfDeMVRLHCvuTVM9WMTP5ViTcLmfgZc",
+        "dex": "orca",
+        "type": "whirlpool",
+        "baseMint": "So11111111111111111111111111111111111111112",
+        "quoteMint": "2riX3sqar6budJw7qE2PKXKgYuSbmeCp63qxU8MRsoLx",
+        "baseDecimals": 9,
+        "quoteDecimals": 6,
+        "feeRate": 0.0001,
+        "tickSpacing": 1,
+        "vaults": {
+          "aVault": "BBTM8qV5pbT7nAD8hYvZU2Gew6uNx6tkUYiWREm7JEYL",
+          "bVault": "FtHgh1WAJBwHxVN4HZ34QCEhGhpADS7ysr1D3sbAVDNv"
+        },
+        "xReserve": "",
+        "yReserve": "",
+        "clmm": {
+          "sqrtPriceX64": "",
+          "liquidity": "",
+          "currentTickIndex": 0
+        }
+      }
+
+]

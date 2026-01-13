@@ -1,0 +1,4284 @@
+[
+    {
+        "poolAddress": "3FbEVDNSRcRkDboNkL1Uj6gDoHwVxDw8dpVCjvomnNJ8",
+        "dex": "raydium",
+        "type": "clmm",
+        "baseMint": "Brri619tC6wdm6vhjzUEqNdFGNhLTbgQaCgDTixuW5oB",
+        "quoteMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "baseDecimals": 6,
+        "quoteDecimals": 6,
+        "feeRate": 0.12,
+        "tickSpacing": 1,
+        "vaults": {
+          "aVault": "",
+          "bVault": ""
+        },
+        "xReserve": "6606705126",
+        "yReserve": "122104124595",
+        "clmm": {
+          "sqrtPriceX64": "18.574727746063456",
+          "liquidity": "0",
+          "currentTickIndex": 0
+        },
+        "reserveSource": "api",
+        "isMathReady": false,
+        "_raw": {
+          "type": "Concentrated",
+          "programId": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+          "id": "3FbEVDNSRcRkDboNkL1Uj6gDoHwVxDw8dpVCjvomnNJ8",
+          "mintA": {
+            "chainId": 101,
+            "address": "Brri619tC6wdm6vhjzUEqNdFGNhLTbgQaCgDTixuW5oB",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/Brri619tC6wdm6vhjzUEqNdFGNhLTbgQaCgDTixuW5oB.png",
+            "symbol": "ARK",
+            "name": "ARK DeFAI",
+            "decimals": 6,
+            "tags": [],
+            "extensions": {}
+          },
+          "mintB": {
+            "chainId": 101,
+            "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+            "symbol": "USDC",
+            "name": "USD Coin",
+            "decimals": 6,
+            "tags": [
+              "hasFreeze"
+            ],
+            "extensions": {}
+          },
+          "rewardDefaultPoolInfos": "Clmm",
+          "rewardDefaultInfos": [],
+          "price": 18.574727746063456,
+          "mintAmountA": 6606.705126,
+          "mintAmountB": 122104.124595,
+          "feeRate": 0.0001,
+          "openTime": "0",
+          "tvl": 244738.79,
+          "day": {
+            "volume": 396016.35269316577,
+            "volumeQuote": 396861.0392374124,
+            "volumeFee": 39.60163526931656,
+            "apr": 5.91,
+            "feeApr": 5.91,
+            "priceMin": 17.412502483878608,
+            "priceMax": 18.888780077180748,
+            "rewardApr": []
+          },
+          "week": {
+            "volume": 3771459.926549444,
+            "volumeQuote": 3783860.3129194495,
+            "volumeFee": 377.14599265494434,
+            "apr": 4.62,
+            "feeApr": 4.62,
+            "priceMin": 14.29476228105404,
+            "priceMax": 18.888780077180748,
+            "rewardApr": []
+          },
+          "month": {
+            "volume": 9627538.0890494,
+            "volumeQuote": 9665972.412327,
+            "volumeFee": 962.7538089049405,
+            "apr": 4.72,
+            "feeApr": 4.72,
+            "priceMin": 2.0053202999138184,
+            "priceMax": 18.888780077180748,
+            "rewardApr": []
+          },
+          "pooltype": [
+            "Clmm"
+          ],
+          "farmUpcomingCount": 0,
+          "farmOngoingCount": 0,
+          "farmFinishedCount": 0,
+          "config": {
+            "id": "9iFER3bpjf1PTTCQCfTRu17EJgvsxo9pVyA9QWwEuX4x",
+            "index": 4,
+            "protocolFeeRate": 120000,
+            "tradeFeeRate": 100,
+            "tickSpacing": 1,
+            "fundFeeRate": 40000,
+            "defaultRange": 0.001,
+            "defaultRangePoint": [
+              0.001,
+              0.003,
+              0.005,
+              0.008,
+              0.01
+            ]
+          },
+          "burnPercent": 0,
+          "launchMigratePool": false
+        }
+      },
+      {
+        "poolAddress": "BS9uyGV6XmNnPkM4f3xgxCdQEaFv7RSKs6fwrpvYHxfL",
+        "dex": "raydium",
+        "type": "clmm",
+        "baseMint": "So11111111111111111111111111111111111111112",
+        "quoteMint": "XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W",
+        "baseDecimals": 9,
+        "quoteDecimals": 8,
+        "feeRate": 0.12,
+        "tickSpacing": 60,
+        "vaults": {
+          "aVault": "",
+          "bVault": ""
+        },
+        "xReserve": "1670149051012",
+        "yReserve": "1872632329",
+        "clmm": {
+          "sqrtPriceX64": "0.19487908703652085",
+          "liquidity": "0",
+          "currentTickIndex": 0
+        },
+        "reserveSource": "api",
+        "isMathReady": false,
+        "_raw": {
+          "type": "Concentrated",
+          "programId": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+          "id": "BS9uyGV6XmNnPkM4f3xgxCdQEaFv7RSKs6fwrpvYHxfL",
+          "mintA": {
+            "chainId": 101,
+            "address": "So11111111111111111111111111111111111111112",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+            "symbol": "WSOL",
+            "name": "Wrapped SOL",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "mintB": {
+            "chainId": 101,
+            "address": "XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W",
+            "programId": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+            "logoURI": "https://img-v1.raydium.io/icon/XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W.png",
+            "symbol": "SPYx",
+            "name": "SP500 xStock",
+            "decimals": 8,
+            "tags": [
+              "hasFreeze"
+            ],
+            "extensions": {
+              "tips": {
+                "text": "This is a Backed tokenized equity.",
+                "link": "https://assets.backed.fi/products",
+                "icon": "https://img-v1.raydium.io/share/backed.png"
+              }
+            }
+          },
+          "rewardDefaultPoolInfos": "Clmm",
+          "rewardDefaultInfos": [],
+          "price": 0.19487908703652085,
+          "mintAmountA": 1670.149051012,
+          "mintAmountB": 18.72632329,
+          "feeRate": 0.0025,
+          "openTime": "0",
+          "tvl": 240846.9,
+          "day": {
+            "volume": 520231.0310494856,
+            "volumeQuote": 751.7239828232816,
+            "volumeFee": 1300.5775776237144,
+            "apr": 197.1,
+            "feeApr": 197.1,
+            "priceMin": 0.19337670888058803,
+            "priceMax": 0.2026106520677285,
+            "rewardApr": []
+          },
+          "week": {
+            "volume": 1387380.8307961891,
+            "volumeQuote": 2006.173580464641,
+            "volumeFee": 3468.4520769904743,
+            "apr": 43.2,
+            "feeApr": 43.2,
+            "priceMin": 0.18939434279391293,
+            "priceMax": 0.20724572716430087,
+            "rewardApr": []
+          },
+          "month": {
+            "volume": 1711334.0629152523,
+            "volumeQuote": 2480.61182425,
+            "volumeFee": 4278.335157288132,
+            "apr": 21.32,
+            "feeApr": 21.32,
+            "priceMin": 0.1722932177701618,
+            "priceMax": 0.20724572716430087,
+            "rewardApr": []
+          },
+          "pooltype": [
+            "RWA",
+            "Clmm"
+          ],
+          "farmUpcomingCount": 0,
+          "farmOngoingCount": 0,
+          "farmFinishedCount": 0,
+          "config": {
+            "id": "E64NGkDLLCdQ2yFNPcavaKptrEgmiQaNykUuLC1Qgwyp",
+            "index": 1,
+            "protocolFeeRate": 120000,
+            "tradeFeeRate": 2500,
+            "tickSpacing": 60,
+            "fundFeeRate": 40000,
+            "defaultRange": 0.1,
+            "defaultRangePoint": [
+              0.01,
+              0.05,
+              0.1,
+              0.2,
+              0.5
+            ]
+          },
+          "burnPercent": 0,
+          "launchMigratePool": false
+        }
+      },
+      {
+        "poolAddress": "GsgEAtxSKrgMC43NseBLbAQz8zNtCcn1eJmmhxzqDh1W",
+        "dex": "raydium",
+        "type": "clmm",
+        "baseMint": "7s9MoSt7VV1J3jVNnw2AyocsQDBdCkPYz5apQDPKy9i5",
+        "quoteMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "baseDecimals": 9,
+        "quoteDecimals": 6,
+        "feeRate": 0.12,
+        "tickSpacing": 1,
+        "vaults": {
+          "aVault": "",
+          "bVault": ""
+        },
+        "xReserve": "1870686490011895",
+        "yReserve": "175925965916",
+        "clmm": {
+          "sqrtPriceX64": "0.032514634551695634",
+          "liquidity": "0",
+          "currentTickIndex": 0
+        },
+        "reserveSource": "api",
+        "isMathReady": false,
+        "_raw": {
+          "type": "Concentrated",
+          "programId": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+          "id": "GsgEAtxSKrgMC43NseBLbAQz8zNtCcn1eJmmhxzqDh1W",
+          "mintA": {
+            "chainId": 101,
+            "address": "7s9MoSt7VV1J3jVNnw2AyocsQDBdCkPYz5apQDPKy9i5",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/7s9MoSt7VV1J3jVNnw2AyocsQDBdCkPYz5apQDPKy9i5.png",
+            "symbol": "PIPE",
+            "name": "Pipe",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "mintB": {
+            "chainId": 101,
+            "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+            "symbol": "USDC",
+            "name": "USD Coin",
+            "decimals": 6,
+            "tags": [
+              "hasFreeze"
+            ],
+            "extensions": {}
+          },
+          "rewardDefaultPoolInfos": "Clmm",
+          "rewardDefaultInfos": [],
+          "price": 0.032514634551695634,
+          "mintAmountA": 1870686.490011895,
+          "mintAmountB": 175925.965916,
+          "feeRate": 0.0001,
+          "openTime": "0",
+          "tvl": 236795.26,
+          "day": {
+            "volume": 154859.52495805302,
+            "volumeQuote": 155473.1308296358,
+            "volumeFee": 15.485952495805298,
+            "apr": 2.39,
+            "feeApr": 2.39,
+            "priceMin": 0.03089984322441091,
+            "priceMax": 0.03908042778344896,
+            "rewardApr": []
+          },
+          "week": {
+            "volume": 677248.3507411467,
+            "volumeQuote": 680085.3225475715,
+            "volumeFee": 67.72483507411452,
+            "apr": 0.86,
+            "feeApr": 0.86,
+            "priceMin": 0.026597297022951723,
+            "priceMax": 0.06282909664191094,
+            "rewardApr": []
+          },
+          "month": {
+            "volume": 1099520.8643128471,
+            "volumeQuote": 1103149.8670770014,
+            "volumeFee": 109.95208643128456,
+            "apr": 0.56,
+            "feeApr": 0.56,
+            "priceMin": 0.026597297022951723,
+            "priceMax": 0.06767186990219275,
+            "rewardApr": []
+          },
+          "pooltype": [
+            "Clmm"
+          ],
+          "farmUpcomingCount": 0,
+          "farmOngoingCount": 0,
+          "farmFinishedCount": 0,
+          "config": {
+            "id": "9iFER3bpjf1PTTCQCfTRu17EJgvsxo9pVyA9QWwEuX4x",
+            "index": 4,
+            "protocolFeeRate": 120000,
+            "tradeFeeRate": 100,
+            "tickSpacing": 1,
+            "fundFeeRate": 40000,
+            "defaultRange": 0.001,
+            "defaultRangePoint": [
+              0.001,
+              0.003,
+              0.005,
+              0.008,
+              0.01
+            ]
+          },
+          "burnPercent": 0,
+          "launchMigratePool": false
+        }
+      },
+      {
+        "poolAddress": "6U3pMUA8e8cYqQjGty3SioAEzArSEiPVBjziwSakL5f",
+        "dex": "raydium",
+        "type": "clmm",
+        "baseMint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+        "quoteMint": "FaxbYmxaViCYUAxBg7ib8ijnPxPQkgYwUELQubAV1R9n",
+        "baseDecimals": 6,
+        "quoteDecimals": 9,
+        "feeRate": 0.12,
+        "tickSpacing": 1,
+        "vaults": {
+          "aVault": "",
+          "bVault": ""
+        },
+        "xReserve": "5879796376",
+        "yReserve": "960732587380209",
+        "clmm": {
+          "sqrtPriceX64": "4.166663321398238",
+          "liquidity": "0",
+          "currentTickIndex": 0
+        },
+        "reserveSource": "api",
+        "isMathReady": false,
+        "_raw": {
+          "type": "Concentrated",
+          "programId": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+          "id": "6U3pMUA8e8cYqQjGty3SioAEzArSEiPVBjziwSakL5f",
+          "mintA": {
+            "chainId": 101,
+            "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.png",
+            "symbol": "USDT",
+            "name": "USDT",
+            "decimals": 6,
+            "tags": [
+              "hasFreeze"
+            ],
+            "extensions": {}
+          },
+          "mintB": {
+            "chainId": 101,
+            "address": "FaxbYmxaViCYUAxBg7ib8ijnPxPQkgYwUELQubAV1R9n",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "",
+            "symbol": "HTX",
+            "name": "HTX",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "rewardDefaultPoolInfos": "Clmm",
+          "rewardDefaultInfos": [],
+          "price": 4.166663321398238,
+          "mintAmountA": 5879.796376,
+          "mintAmountB": 960732.587380209,
+          "feeRate": 0.0001,
+          "openTime": "0",
+          "tvl": 236226.59,
+          "day": {
+            "volume": 130.20205620247188,
+            "volumeQuote": 543.044707614419,
+            "volumeFee": 0.013020205620247189,
+            "apr": 0,
+            "feeApr": 0,
+            "priceMin": 4.166245619199633,
+            "priceMax": 4.167081078376581,
+            "rewardApr": []
+          },
+          "week": {
+            "volume": 586.4869536445913,
+            "volumeQuote": 2445.881238962,
+            "volumeFee": 0.05864869536445913,
+            "apr": 0,
+            "feeApr": 0,
+            "priceMin": 4.166245619199633,
+            "priceMax": 4.167081078376581,
+            "rewardApr": []
+          },
+          "month": {
+            "volume": 586.4869536445913,
+            "volumeQuote": 2445.881238962,
+            "volumeFee": 0.05864869536445913,
+            "apr": 0,
+            "feeApr": 0,
+            "priceMin": 4.166245619199633,
+            "priceMax": 4.167081078376581,
+            "rewardApr": []
+          },
+          "pooltype": [
+            "Clmm"
+          ],
+          "farmUpcomingCount": 0,
+          "farmOngoingCount": 0,
+          "farmFinishedCount": 0,
+          "config": {
+            "id": "9iFER3bpjf1PTTCQCfTRu17EJgvsxo9pVyA9QWwEuX4x",
+            "index": 4,
+            "protocolFeeRate": 120000,
+            "tradeFeeRate": 100,
+            "tickSpacing": 1,
+            "fundFeeRate": 40000,
+            "defaultRange": 0.001,
+            "defaultRangePoint": [
+              0.001,
+              0.003,
+              0.005,
+              0.008,
+              0.01
+            ]
+          },
+          "burnPercent": 0,
+          "launchMigratePool": false
+        }
+      },
+      {
+        "poolAddress": "GLr1KSteCDjkD57zevo4YZoztW9CJsHgLM4yRS12PkqQ",
+        "dex": "raydium",
+        "type": "clmm",
+        "baseMint": "3jzzBA21JnXKCT4QpqjzHVoxaGGYdwhrmDXo8tJpdjck",
+        "quoteMint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+        "baseDecimals": 9,
+        "quoteDecimals": 6,
+        "feeRate": 0.12,
+        "tickSpacing": 1,
+        "vaults": {
+          "aVault": "",
+          "bVault": ""
+        },
+        "xReserve": "72882569786",
+        "yReserve": "6000991531",
+        "clmm": {
+          "sqrtPriceX64": "3080.000043684489",
+          "liquidity": "0",
+          "currentTickIndex": 0
+        },
+        "reserveSource": "api",
+        "isMathReady": false,
+        "_raw": {
+          "type": "Concentrated",
+          "programId": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+          "id": "GLr1KSteCDjkD57zevo4YZoztW9CJsHgLM4yRS12PkqQ",
+          "mintA": {
+            "chainId": 101,
+            "address": "3jzzBA21JnXKCT4QpqjzHVoxaGGYdwhrmDXo8tJpdjck",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "",
+            "symbol": "E𐤯H",
+            "name": "soether",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "mintB": {
+            "chainId": 101,
+            "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.png",
+            "symbol": "USDT",
+            "name": "USDT",
+            "decimals": 6,
+            "tags": [
+              "hasFreeze"
+            ],
+            "extensions": {}
+          },
+          "rewardDefaultPoolInfos": "Clmm",
+          "rewardDefaultInfos": [],
+          "price": 3080.000043684489,
+          "mintAmountA": 72.882569786,
+          "mintAmountB": 6000.991531,
+          "feeRate": 0.0001,
+          "openTime": "0",
+          "tvl": 230255.9,
+          "day": {
+            "volume": 0,
+            "volumeQuote": 0,
+            "volumeFee": 0,
+            "apr": 0,
+            "feeApr": 0,
+            "priceMin": -1,
+            "priceMax": -1,
+            "rewardApr": []
+          },
+          "week": {
+            "volume": 1.2685640681778092,
+            "volumeQuote": 1.269815,
+            "volumeFee": 0.0001268564068177809,
+            "apr": 0,
+            "feeApr": 0,
+            "priceMin": 3079.6573781014145,
+            "priceMax": 3080.343507226489,
+            "rewardApr": []
+          },
+          "month": {
+            "volume": 1.2685640681778092,
+            "volumeQuote": 1.269815,
+            "volumeFee": 0.0001268564068177809,
+            "apr": 0,
+            "feeApr": 0,
+            "priceMin": 3079.6573781014145,
+            "priceMax": 3080.343507226489,
+            "rewardApr": []
+          },
+          "pooltype": [
+            "Clmm"
+          ],
+          "farmUpcomingCount": 0,
+          "farmOngoingCount": 0,
+          "farmFinishedCount": 0,
+          "config": {
+            "id": "9iFER3bpjf1PTTCQCfTRu17EJgvsxo9pVyA9QWwEuX4x",
+            "index": 4,
+            "protocolFeeRate": 120000,
+            "tradeFeeRate": 100,
+            "tickSpacing": 1,
+            "fundFeeRate": 40000,
+            "defaultRange": 0.001,
+            "defaultRangePoint": [
+              0.001,
+              0.003,
+              0.005,
+              0.008,
+              0.01
+            ]
+          },
+          "burnPercent": 0,
+          "launchMigratePool": false
+        }
+      },
+      {
+        "poolAddress": "22hNJ5P5eiYf3ETJHS3zeXynn5bTRKwRVCFXz9EuCcnQ",
+        "dex": "raydium",
+        "type": "clmm",
+        "baseMint": "81i43DrHf85PwmAiAxPoCr9C4BQgeqPwHkxLEQhCxCqG",
+        "quoteMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "baseDecimals": 9,
+        "quoteDecimals": 6,
+        "feeRate": 0.12,
+        "tickSpacing": 1,
+        "vaults": {
+          "aVault": "",
+          "bVault": ""
+        },
+        "xReserve": "667793500948567000",
+        "yReserve": "6711323019",
+        "clmm": {
+          "sqrtPriceX64": "0.0003300254138005335",
+          "liquidity": "0",
+          "currentTickIndex": 0
+        },
+        "reserveSource": "api",
+        "isMathReady": false,
+        "_raw": {
+          "type": "Concentrated",
+          "programId": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+          "id": "22hNJ5P5eiYf3ETJHS3zeXynn5bTRKwRVCFXz9EuCcnQ",
+          "mintA": {
+            "chainId": 101,
+            "address": "81i43DrHf85PwmAiAxPoCr9C4BQgeqPwHkxLEQhCxCqG",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/81i43DrHf85PwmAiAxPoCr9C4BQgeqPwHkxLEQhCxCqG.png",
+            "symbol": "THE TOKEN",
+            "name": "MEMEPUTER",
+            "decimals": 9,
+            "tags": [
+              "hasFreeze"
+            ],
+            "extensions": {}
+          },
+          "mintB": {
+            "chainId": 101,
+            "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+            "symbol": "USDC",
+            "name": "USD Coin",
+            "decimals": 6,
+            "tags": [
+              "hasFreeze"
+            ],
+            "extensions": {}
+          },
+          "rewardDefaultPoolInfos": "Clmm",
+          "rewardDefaultInfos": [],
+          "price": 0.0003300254138005335,
+          "mintAmountA": 667793500.948567,
+          "mintAmountB": 6711.323019,
+          "feeRate": 0.0001,
+          "openTime": "0",
+          "tvl": 227100.15,
+          "day": {
+            "volume": 39259.04822494689,
+            "volumeQuote": 39277.63516805177,
+            "volumeFee": 3.92590482249469,
+            "apr": 0.63,
+            "feeApr": 0.63,
+            "priceMin": 0.0003301486189502817,
+            "priceMax": 0.00033021464296125944,
+            "rewardApr": []
+          },
+          "week": {
+            "volume": 449878.44209853496,
+            "volumeQuote": 450087.333254192,
+            "volumeFee": 44.9878442098535,
+            "apr": 0.59,
+            "feeApr": 0.59,
+            "priceMin": 0.00032998990373739654,
+            "priceMax": 0.00033021464733569374,
+            "rewardApr": []
+          },
+          "month": {
+            "volume": 2249201.04396057,
+            "volumeQuote": 2250373.141262,
+            "volumeFee": 224.92010439605696,
+            "apr": 1.19,
+            "feeApr": 1.19,
+            "priceMin": 0.00032998990373739654,
+            "priceMax": 0.000330326205061874,
+            "rewardApr": []
+          },
+          "pooltype": [
+            "Clmm"
+          ],
+          "farmUpcomingCount": 0,
+          "farmOngoingCount": 0,
+          "farmFinishedCount": 0,
+          "config": {
+            "id": "9iFER3bpjf1PTTCQCfTRu17EJgvsxo9pVyA9QWwEuX4x",
+            "index": 4,
+            "protocolFeeRate": 120000,
+            "tradeFeeRate": 100,
+            "tickSpacing": 1,
+            "fundFeeRate": 40000,
+            "defaultRange": 0.001,
+            "defaultRangePoint": [
+              0.001,
+              0.003,
+              0.005,
+              0.008,
+              0.01
+            ]
+          },
+          "burnPercent": 0,
+          "launchMigratePool": false
+        }
+      },
+      {
+        "poolAddress": "j7HNXTHf7TguGefRrArdFTWDKG732WBu8mwzdbtGukX",
+        "dex": "raydium",
+        "type": "clmm",
+        "baseMint": "So11111111111111111111111111111111111111112",
+        "quoteMint": "2q8Y8rubbsaaA3faq8Ytsk382JXgtKdn23qjNXhSpump",
+        "baseDecimals": 9,
+        "quoteDecimals": 6,
+        "feeRate": 0.12,
+        "tickSpacing": 120,
+        "vaults": {
+          "aVault": "",
+          "bVault": ""
+        },
+        "xReserve": "231856756640",
+        "yReserve": "107938948195736",
+        "clmm": {
+          "sqrtPriceX64": "77927.75715364442",
+          "liquidity": "0",
+          "currentTickIndex": 0
+        },
+        "reserveSource": "api",
+        "isMathReady": false,
+        "_raw": {
+          "type": "Concentrated",
+          "programId": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+          "id": "j7HNXTHf7TguGefRrArdFTWDKG732WBu8mwzdbtGukX",
+          "mintA": {
+            "chainId": 101,
+            "address": "So11111111111111111111111111111111111111112",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+            "symbol": "WSOL",
+            "name": "Wrapped SOL",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "mintB": {
+            "chainId": 101,
+            "address": "2q8Y8rubbsaaA3faq8Ytsk382JXgtKdn23qjNXhSpump",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/2q8Y8rubbsaaA3faq8Ytsk382JXgtKdn23qjNXhSpump.png",
+            "symbol": "ROSS",
+            "name": "ROSS ULBRICHT FUND",
+            "decimals": 6,
+            "tags": [],
+            "extensions": {}
+          },
+          "rewardDefaultPoolInfos": "Clmm",
+          "rewardDefaultInfos": [],
+          "price": 77927.75715364442,
+          "mintAmountA": 231.85675664,
+          "mintAmountB": 107938948.195736,
+          "feeRate": 0.01,
+          "openTime": "0",
+          "tvl": 220550.99,
+          "day": {
+            "volume": 0,
+            "volumeQuote": 0,
+            "volumeFee": 0,
+            "apr": 0,
+            "feeApr": 0,
+            "priceMin": 0,
+            "priceMax": 0,
+            "rewardApr": []
+          },
+          "week": {
+            "volume": 0,
+            "volumeQuote": 0,
+            "volumeFee": 0,
+            "apr": 0,
+            "feeApr": 0,
+            "priceMin": 0,
+            "priceMax": 0,
+            "rewardApr": []
+          },
+          "month": {
+            "volume": 0,
+            "volumeQuote": 0,
+            "volumeFee": 0,
+            "apr": 0,
+            "feeApr": 0,
+            "priceMin": 0,
+            "priceMax": 0,
+            "rewardApr": []
+          },
+          "pooltype": [
+            "Clmm"
+          ],
+          "farmUpcomingCount": 0,
+          "farmOngoingCount": 0,
+          "farmFinishedCount": 0,
+          "config": {
+            "id": "A1BBtTYJd4i3xU8D6Tc2FzU6ZN4oXZWXKZnCxwbHXr8x",
+            "index": 3,
+            "protocolFeeRate": 120000,
+            "tradeFeeRate": 10000,
+            "tickSpacing": 120,
+            "fundFeeRate": 40000,
+            "defaultRange": 0.1,
+            "defaultRangePoint": [
+              0.01,
+              0.05,
+              0.1,
+              0.2,
+              0.5
+            ]
+          },
+          "burnPercent": 0,
+          "launchMigratePool": false
+        }
+      },
+      {
+        "poolAddress": "BjkBxREU5J1gi9J4o68EMurMdkwkWNf8jhjkGMNUqRmr",
+        "dex": "raydium",
+        "type": "cpmm",
+        "baseMint": "So11111111111111111111111111111111111111112",
+        "quoteMint": "4HBQm2EhdpUWZkTYxttxNDnsoWi5beRAGWHpjVo8pump",
+        "baseDecimals": 9,
+        "quoteDecimals": 6,
+        "liquidity": "0",
+        "fee": 0.0025,
+        "vaults": {
+          "xVault": "",
+          "yVault": ""
+        },
+        "xReserve": "1710868153642",
+        "yReserve": "20734728993282",
+        "reserveSource": "api",
+        "isMathReady": true,
+        "_raw": {
+          "type": "Standard",
+          "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+          "id": "BjkBxREU5J1gi9J4o68EMurMdkwkWNf8jhjkGMNUqRmr",
+          "mintA": {
+            "chainId": 101,
+            "address": "So11111111111111111111111111111111111111112",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+            "symbol": "WSOL",
+            "name": "Wrapped SOL",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "mintB": {
+            "chainId": 101,
+            "address": "4HBQm2EhdpUWZkTYxttxNDnsoWi5beRAGWHpjVo8pump",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/4HBQm2EhdpUWZkTYxttxNDnsoWi5beRAGWHpjVo8pump.png",
+            "symbol": "CAT",
+            "name": "Cat Terminal",
+            "decimals": 6,
+            "tags": [],
+            "extensions": {}
+          },
+          "price": 12119.419576045691,
+          "mintAmountA": 1710.868153642,
+          "mintAmountB": 20734728.993282,
+          "feeRate": 0.0025,
+          "openTime": "0",
+          "tvl": 467445.95,
+          "day": {
+            "volume": 85731.27734334944,
+            "volumeQuote": 7439725.802600659,
+            "volumeFee": 214.3281933583736,
+            "apr": 16.74,
+            "feeApr": 16.74,
+            "priceMin": 11482.104670823355,
+            "priceMax": 12165.71856832614,
+            "rewardApr": []
+          },
+          "week": {
+            "volume": 901490.4118854508,
+            "volumeQuote": 72714899.24130234,
+            "volumeFee": 2253.726029713626,
+            "apr": 14.46,
+            "feeApr": 14.46,
+            "priceMin": 10061.577063366494,
+            "priceMax": 12165.71856832614,
+            "rewardApr": []
+          },
+          "month": {
+            "volume": 2895793.2351244963,
+            "volumeQuote": 234438012.986769,
+            "volumeFee": 7239.483087811241,
+            "apr": 18.58,
+            "feeApr": 18.58,
+            "priceMin": 6964.120651882081,
+            "priceMax": 12165.71856832614,
+            "rewardApr": []
+          },
+          "pooltype": [
+            "Amm",
+            "OpenBookMarket"
+          ],
+          "rewardDefaultInfos": [],
+          "farmUpcomingCount": 0,
+          "farmOngoingCount": 0,
+          "farmFinishedCount": 0,
+          "marketId": "9c5Eg8Fm77fbFgG3FgWmru6NZapMDr83hsJGcjJnCXd6",
+          "lpMint": {
+            "chainId": 101,
+            "address": "jHNTKhiLkrov9JzpnayqL4bvxnyHnhiw21Rm5csiGxX",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "",
+            "symbol": "",
+            "name": "",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "lpPrice": 115.61713654159932,
+          "lpAmount": 4043.050738734,
+          "burnPercent": 99.99,
+          "launchMigratePool": false
+        }
+      },
+      {
+        "poolAddress": "BVSiP9RR4T8ZqY4ZLkgsxNwKZoEVbB92RsWN5tCdtRox",
+        "dex": "raydium",
+        "type": "cpmm",
+        "baseMint": "So11111111111111111111111111111111111111112",
+        "quoteMint": "6d5zHW5B8RkGKd51Lpb9RqFQSqDudr9GJgZ1SgQZpump",
+        "baseDecimals": 9,
+        "quoteDecimals": 6,
+        "liquidity": "0",
+        "fee": 0.0025,
+        "vaults": {
+          "xVault": "",
+          "yVault": ""
+        },
+        "xReserve": "1695545350577",
+        "yReserve": "158143195501913",
+        "reserveSource": "api",
+        "isMathReady": true,
+        "_raw": {
+          "type": "Standard",
+          "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+          "id": "BVSiP9RR4T8ZqY4ZLkgsxNwKZoEVbB92RsWN5tCdtRox",
+          "mintA": {
+            "chainId": 101,
+            "address": "So11111111111111111111111111111111111111112",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+            "symbol": "WSOL",
+            "name": "Wrapped SOL",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "mintB": {
+            "chainId": 101,
+            "address": "6d5zHW5B8RkGKd51Lpb9RqFQSqDudr9GJgZ1SgQZpump",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/6d5zHW5B8RkGKd51Lpb9RqFQSqDudr9GJgZ1SgQZpump.png",
+            "symbol": "AVB",
+            "name": "Autonomous Virtual Beings ",
+            "decimals": 6,
+            "tags": [],
+            "extensions": {}
+          },
+          "price": 93269.81165564008,
+          "mintAmountA": 1695.545350577,
+          "mintAmountB": 158143195.501913,
+          "feeRate": 0.0025,
+          "openTime": "0",
+          "tvl": 463259.43,
+          "day": {
+            "volume": 22131.85636100482,
+            "volumeQuote": 14665779.706468754,
+            "volumeFee": 55.329640902512025,
+            "apr": 4.36,
+            "feeApr": 4.36,
+            "priceMin": 83407.12513570928,
+            "priceMax": 94528.71342726484,
+            "rewardApr": []
+          },
+          "week": {
+            "volume": 258736.05203725837,
+            "volumeQuote": 160228766.92305517,
+            "volumeFee": 646.8401300931458,
+            "apr": 4.19,
+            "feeApr": 4.19,
+            "priceMin": 75811.95668800562,
+            "priceMax": 94528.71342726484,
+            "rewardApr": []
+          },
+          "month": {
+            "volume": 1530073.1444377853,
+            "volumeQuote": 1078075136.057096,
+            "volumeFee": 3825.182861094463,
+            "apr": 9.91,
+            "feeApr": 9.91,
+            "priceMin": 58639.1307125,
+            "priceMax": 128337.450587679,
+            "rewardApr": []
+          },
+          "pooltype": [
+            "Amm",
+            "OpenBookMarket"
+          ],
+          "rewardDefaultInfos": [],
+          "farmUpcomingCount": 0,
+          "farmOngoingCount": 0,
+          "farmFinishedCount": 0,
+          "marketId": "3Lzzft9ahF3Yr29eCWQ2L7y2j5MTaMzE3ax9szaMFnNx",
+          "lpMint": {
+            "chainId": 101,
+            "address": "6pPGqMpQYW98NUfHvvKZtXzXLpBqDubYffJ3STfMKuT1",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "",
+            "symbol": "",
+            "name": "",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "lpPrice": 114.58182811050048,
+          "lpAmount": 4043.044502181,
+          "burnPercent": 100,
+          "launchMigratePool": false
+        }
+      },
+      {
+        "poolAddress": "7mtJbVNEtejYmCLRriwQhymZdzn4wGRFTvTZ5721b4BD",
+        "dex": "raydium",
+        "type": "cpmm",
+        "baseMint": "HQ7DaoiUxzC2K1Dr7KXRHccNtXvEYgNvoUextXe8dmBh",
+        "quoteMint": "So11111111111111111111111111111111111111112",
+        "baseDecimals": 6,
+        "quoteDecimals": 9,
+        "liquidity": "0",
+        "fee": 0.0025,
+        "vaults": {
+          "xVault": "",
+          "yVault": ""
+        },
+        "xReserve": "155148093931448",
+        "yReserve": "1689269579211",
+        "reserveSource": "api",
+        "isMathReady": true,
+        "_raw": {
+          "type": "Standard",
+          "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+          "id": "7mtJbVNEtejYmCLRriwQhymZdzn4wGRFTvTZ5721b4BD",
+          "mintA": {
+            "chainId": 101,
+            "address": "HQ7DaoiUxzC2K1Dr7KXRHccNtXvEYgNvoUextXe8dmBh",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/HQ7DaoiUxzC2K1Dr7KXRHccNtXvEYgNvoUextXe8dmBh.png",
+            "symbol": "SLOTH",
+            "name": "Slothana",
+            "decimals": 6,
+            "tags": [],
+            "extensions": {}
+          },
+          "mintB": {
+            "chainId": 101,
+            "address": "So11111111111111111111111111111111111111112",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+            "symbol": "WSOL",
+            "name": "Wrapped SOL",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "price": 0.000010888110426657266,
+          "mintAmountA": 155148093.931448,
+          "mintAmountB": 1689.269579211,
+          "feeRate": 0.0025,
+          "openTime": "1714575600",
+          "tvl": 461544.75,
+          "day": {
+            "volume": 4692.069348558029,
+            "volumeQuote": 34.62321554014773,
+            "volumeFee": 11.730173371395072,
+            "apr": 0.93,
+            "feeApr": 0.93,
+            "priceMin": 0.000010719156525,
+            "priceMax": 0.000010918600614258989,
+            "rewardApr": []
+          },
+          "week": {
+            "volume": 36746.63058364844,
+            "volumeQuote": 269.10558750123533,
+            "volumeFee": 91.8665764591211,
+            "apr": 0.6,
+            "feeApr": 0.6,
+            "priceMin": 0.000010719156525,
+            "priceMax": 0.000012439118660602442,
+            "rewardApr": []
+          },
+          "month": {
+            "volume": 206283.81990128287,
+            "volumeQuote": 1629.425535105,
+            "volumeFee": 515.709549753207,
+            "apr": 1.34,
+            "feeApr": 1.34,
+            "priceMin": 0.000010719156525,
+            "priceMax": 0.000013349905743581608,
+            "rewardApr": []
+          },
+          "pooltype": [
+            "Amm",
+            "OpenBookMarket"
+          ],
+          "rewardDefaultInfos": [],
+          "farmUpcomingCount": 0,
+          "farmOngoingCount": 0,
+          "farmFinishedCount": 0,
+          "marketId": "DVD6mYcNqHcj6iSZNv2QZKMVjfss6zjNAWBzHQ3o5CKd",
+          "lpMint": {
+            "chainId": 101,
+            "address": "7XrkoLxEYBZyzTwtfKzKaatW9n9VEKoNpDsT2T871zBR",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "",
+            "symbol": "",
+            "name": "",
+            "decimals": 6,
+            "tags": [],
+            "extensions": {}
+          },
+          "lpPrice": 0.035505161959418004,
+          "lpAmount": 12999370.488843,
+          "burnPercent": 0,
+          "launchMigratePool": false
+        }
+      },
+      {
+        "poolAddress": "6DgFEDUcbhKGA9o38tVqomATEsS9HctXxUghF3QmRLDm",
+        "dex": "raydium",
+        "type": "cpmm",
+        "baseMint": "So11111111111111111111111111111111111111112",
+        "quoteMint": "9doRRAik5gvhbEwjbZDbZR6GxXSAfdoomyJR57xKpump",
+        "baseDecimals": 9,
+        "quoteDecimals": 6,
+        "liquidity": "0",
+        "fee": 0.0025,
+        "vaults": {
+          "xVault": "",
+          "yVault": ""
+        },
+        "xReserve": "1678026979433",
+        "yReserve": "76395747474614",
+        "reserveSource": "api",
+        "isMathReady": true,
+        "_raw": {
+          "type": "Standard",
+          "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+          "id": "6DgFEDUcbhKGA9o38tVqomATEsS9HctXxUghF3QmRLDm",
+          "mintA": {
+            "chainId": 101,
+            "address": "So11111111111111111111111111111111111111112",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+            "symbol": "WSOL",
+            "name": "Wrapped SOL",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "mintB": {
+            "chainId": 101,
+            "address": "9doRRAik5gvhbEwjbZDbZR6GxXSAfdoomyJR57xKpump",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/9doRRAik5gvhbEwjbZDbZR6GxXSAfdoomyJR57xKpump.png",
+            "symbol": "GRPH",
+            "name": "Soul Graph",
+            "decimals": 6,
+            "tags": [],
+            "extensions": {}
+          },
+          "price": 45527.12704323018,
+          "mintAmountA": 1678.026979433,
+          "mintAmountB": 76395747.474614,
+          "feeRate": 0.0025,
+          "openTime": "0",
+          "tvl": 458473.03,
+          "day": {
+            "volume": 8688.294942932685,
+            "volumeQuote": 2922885.904482145,
+            "volumeFee": 21.720737357331718,
+            "apr": 1.73,
+            "feeApr": 1.73,
+            "priceMin": 44546.74167023449,
+            "priceMax": 46162.24061526437,
+            "rewardApr": []
+          },
+          "week": {
+            "volume": 57160.55257741432,
+            "volumeQuote": 18274818.31999753,
+            "volumeFee": 142.9013814435358,
+            "apr": 0.94,
+            "feeApr": 0.94,
+            "priceMin": 40863.57840722448,
+            "priceMax": 46162.24061526437,
+            "rewardApr": []
+          },
+          "month": {
+            "volume": 258557.36829030048,
+            "volumeQuote": 87412107.657418,
+            "volumeFee": 646.3934207257514,
+            "apr": 1.69,
+            "feeApr": 1.69,
+            "priceMin": 39608.74941238008,
+            "priceMax": 49131.456857178695,
+            "rewardApr": []
+          },
+          "pooltype": [
+            "Amm",
+            "OpenBookMarket"
+          ],
+          "rewardDefaultInfos": [],
+          "farmUpcomingCount": 0,
+          "farmOngoingCount": 0,
+          "farmFinishedCount": 0,
+          "marketId": "75L82LSurGc6Bsz6UZTPEy2uY2HToMLnT1J7fvuMSHRK",
+          "lpMint": {
+            "chainId": 101,
+            "address": "CNnumVauETMy6vJX6wiPWWiKUsR5rnN33JR2yZhQeq8M",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "",
+            "symbol": "",
+            "name": "",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "lpPrice": 113.38606254251862,
+          "lpAmount": 4043.469050892,
+          "burnPercent": 99.98,
+          "launchMigratePool": false
+        }
+      },
+      {
+        "poolAddress": "9p8pasMnEQKoDYtuKega6Kch9pSeo3HX9grfWBoovCDM",
+        "dex": "raydium",
+        "type": "cpmm",
+        "baseMint": "8SjKoc2s5cqSW4z6WKwgQiWkdUNnpTso5Jd8BZTNYESd",
+        "quoteMint": "So11111111111111111111111111111111111111112",
+        "baseDecimals": 5,
+        "quoteDecimals": 9,
+        "liquidity": "0",
+        "fee": 0.0025,
+        "vaults": {
+          "xVault": "",
+          "yVault": ""
+        },
+        "xReserve": "92218280469693",
+        "yReserve": "1660263479171",
+        "reserveSource": "api",
+        "isMathReady": true,
+        "_raw": {
+          "type": "Standard",
+          "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+          "id": "9p8pasMnEQKoDYtuKega6Kch9pSeo3HX9grfWBoovCDM",
+          "mintA": {
+            "chainId": 101,
+            "address": "8SjKoc2s5cqSW4z6WKwgQiWkdUNnpTso5Jd8BZTNYESd",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/8SjKoc2s5cqSW4z6WKwgQiWkdUNnpTso5Jd8BZTNYESd.png",
+            "symbol": "BOMO",
+            "name": "The Book of Missing Out",
+            "decimals": 5,
+            "tags": [],
+            "extensions": {}
+          },
+          "mintB": {
+            "chainId": 101,
+            "address": "So11111111111111111111111111111111111111112",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+            "symbol": "WSOL",
+            "name": "Wrapped SOL",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "price": 0.000001800362651217115,
+          "mintAmountA": 922182804.69693,
+          "mintAmountB": 1660.263479171,
+          "feeRate": 0.0025,
+          "openTime": "1710563590",
+          "tvl": 453619.66,
+          "day": {
+            "volume": 4.193164068171428,
+            "volumeQuote": 0.03081215311597222,
+            "volumeFee": 0.01048291017042857,
+            "apr": 0,
+            "feeApr": 0,
+            "priceMin": 0.0000017958597019643966,
+            "priceMax": 0.0000017959900601034604,
+            "rewardApr": []
+          },
+          "week": {
+            "volume": 66.05641706059812,
+            "volumeQuote": 0.4833582347871991,
+            "volumeFee": 0.16514104265149537,
+            "apr": 0,
+            "feeApr": 0,
+            "priceMin": 0.0000017958597019643966,
+            "priceMax": 0.000001805170875035244,
+            "rewardApr": []
+          },
+          "month": {
+            "volume": 169.3476852558574,
+            "volumeQuote": 1.2945501250000002,
+            "volumeFee": 0.4233692131396435,
+            "apr": 0,
+            "feeApr": 0,
+            "priceMin": 0.0000017958597019643966,
+            "priceMax": 0.000001805170875035244,
+            "rewardApr": []
+          },
+          "pooltype": [
+            "Amm",
+            "OpenBookMarket"
+          ],
+          "rewardDefaultInfos": [],
+          "farmUpcomingCount": 0,
+          "farmOngoingCount": 0,
+          "farmFinishedCount": 0,
+          "marketId": "GSGgke4fpQhbwLVvzYoqsXhmQN88DQc1V4Atm8tZynmo",
+          "lpMint": {
+            "chainId": 101,
+            "address": "FUDrdnALhDhZxcN7N3Ev2pQBdgmyKErtk9TrVMhnvMCs",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "",
+            "symbol": "",
+            "name": "",
+            "decimals": 5,
+            "tags": [],
+            "extensions": {}
+          },
+          "lpPrice": 0.0041532683303343735,
+          "lpAmount": 109219927.19274,
+          "burnPercent": 99.98,
+          "launchMigratePool": false
+        }
+      },
+      {
+        "poolAddress": "98nocLbiDi9ykAjwAUJW9fnYZsf4L4KLCfH7U2LFXDsv",
+        "dex": "raydium",
+        "type": "cpmm",
+        "baseMint": "So11111111111111111111111111111111111111112",
+        "quoteMint": "FWAr6oWa6CHg6WUcXu8CqkmsdbhtEqL8t31QTonppump",
+        "baseDecimals": 9,
+        "quoteDecimals": 6,
+        "liquidity": "0",
+        "fee": 0.0025,
+        "vaults": {
+          "xVault": "",
+          "yVault": ""
+        },
+        "xReserve": "1655649195159",
+        "yReserve": "95507847017246",
+        "reserveSource": "api",
+        "isMathReady": true,
+        "_raw": {
+          "type": "Standard",
+          "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+          "id": "98nocLbiDi9ykAjwAUJW9fnYZsf4L4KLCfH7U2LFXDsv",
+          "mintA": {
+            "chainId": 101,
+            "address": "So11111111111111111111111111111111111111112",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+            "symbol": "WSOL",
+            "name": "Wrapped SOL",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "mintB": {
+            "chainId": 101,
+            "address": "FWAr6oWa6CHg6WUcXu8CqkmsdbhtEqL8t31QTonppump",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/FWAr6oWa6CHg6WUcXu8CqkmsdbhtEqL8t31QTonppump.png",
+            "symbol": "PVS",
+            "name": "PVS",
+            "decimals": 6,
+            "tags": [],
+            "extensions": {}
+          },
+          "price": 57686.040796869354,
+          "mintAmountA": 1655.649195159,
+          "mintAmountB": 95507847.017246,
+          "feeRate": 0.0025,
+          "openTime": "0",
+          "tvl": 452358.94,
+          "day": {
+            "volume": 94113.97736317072,
+            "volumeQuote": 40212156.18166684,
+            "volumeFee": 235.28494340792685,
+            "apr": 18.98,
+            "feeApr": 18.98,
+            "priceMin": 52866.220638,
+            "priceMax": 60850.77379653978,
+            "rewardApr": []
+          },
+          "week": {
+            "volume": 851577.5576482792,
+            "volumeQuote": 338558177.01217574,
+            "volumeFee": 2128.9438941206986,
+            "apr": 14.12,
+            "feeApr": 14.12,
+            "priceMin": 43554.12995123586,
+            "priceMax": 62232.579490505086,
+            "rewardApr": []
+          },
+          "month": {
+            "volume": 2238770.648965466,
+            "volumeQuote": 975791396.8371508,
+            "volumeFee": 5596.926622413665,
+            "apr": 14.85,
+            "feeApr": 14.85,
+            "priceMin": 43554.12995123586,
+            "priceMax": 67829.62931885349,
+            "rewardApr": []
+          },
+          "pooltype": [
+            "Amm",
+            "OpenBookMarket"
+          ],
+          "rewardDefaultInfos": [],
+          "farmUpcomingCount": 0,
+          "farmOngoingCount": 0,
+          "farmFinishedCount": 0,
+          "marketId": "GqUYy7vCpsCYEgXv1fcxtx992dk3JHQrb9TyyVdwxn5f",
+          "lpMint": {
+            "chainId": 101,
+            "address": "4u4eDtcnymb2D9krgFs9pA9iXiw6vWYrdmx1xa2jfZ7p",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "",
+            "symbol": "",
+            "name": "",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "lpPrice": 111.808337320198,
+          "lpAmount": 4045.842679817,
+          "burnPercent": 99.93,
+          "launchMigratePool": false
+        }
+      },
+      {
+        "poolAddress": "sBjDoawEcY6YA63Yitgeb5q99Zip2nYwoPovALbZ6tG",
+        "dex": "raydium",
+        "type": "cpmm",
+        "baseMint": "3UEkwrjZmkJXrYa87TZmT91hvCzDfSafFykGEzMC5XRE",
+        "quoteMint": "So11111111111111111111111111111111111111112",
+        "baseDecimals": 9,
+        "quoteDecimals": 9,
+        "liquidity": "0",
+        "fee": 0.0025,
+        "vaults": {
+          "xVault": "",
+          "yVault": ""
+        },
+        "xReserve": "860039998179327600",
+        "yReserve": "1636965694747",
+        "reserveSource": "api",
+        "isMathReady": true,
+        "_raw": {
+          "type": "Standard",
+          "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+          "id": "sBjDoawEcY6YA63Yitgeb5q99Zip2nYwoPovALbZ6tG",
+          "mintA": {
+            "chainId": 101,
+            "address": "3UEkwrjZmkJXrYa87TZmT91hvCzDfSafFykGEzMC5XRE",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/3UEkwrjZmkJXrYa87TZmT91hvCzDfSafFykGEzMC5XRE.png",
+            "symbol": "Monkey",
+            "name": "Monkey Brother",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "mintB": {
+            "chainId": 101,
+            "address": "So11111111111111111111111111111111111111112",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+            "symbol": "WSOL",
+            "name": "Wrapped SOL",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "price": 0.0000019033599579233466,
+          "mintAmountA": 860039998.1793276,
+          "mintAmountB": 1636.965694747,
+          "feeRate": 0.0025,
+          "openTime": "1710592349",
+          "tvl": 447254.21,
+          "day": {
+            "volume": 0,
+            "volumeQuote": 0,
+            "volumeFee": 0,
+            "apr": 0,
+            "feeApr": 0,
+            "priceMin": -1,
+            "priceMax": -1,
+            "rewardApr": []
+          },
+          "week": {
+            "volume": 1.2966661782144306,
+            "volumeQuote": 0.00947766,
+            "volumeFee": 0.0032416654455360767,
+            "apr": 0,
+            "feeApr": 0,
+            "priceMin": 0.0000018986124093287243,
+            "priceMax": 0.0000018986124093287243,
+            "rewardApr": []
+          },
+          "month": {
+            "volume": 1.4977347804168868,
+            "volumeQuote": 0.011018599,
+            "volumeFee": 0.003744336951042217,
+            "apr": 0,
+            "feeApr": 0,
+            "priceMin": 0.0000018986124093287243,
+            "priceMax": 0.000001898625313172888,
+            "rewardApr": []
+          },
+          "pooltype": [
+            "Amm",
+            "OpenBookMarket"
+          ],
+          "rewardDefaultInfos": [],
+          "farmUpcomingCount": 0,
+          "farmOngoingCount": 0,
+          "farmFinishedCount": 0,
+          "marketId": "Gfm9QC5qoz4BADiPRDz7FPGG6ECaev85p1S644iR2vT6",
+          "lpMint": {
+            "chainId": 101,
+            "address": "FUvAKPof7Jsmi2n9ReHciNPYE7dau6uNtUjMMraqckrv",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "",
+            "symbol": "",
+            "name": "",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "lpPrice": 0.3873335073396563,
+          "lpAmount": 1154700.537801901,
+          "burnPercent": 100,
+          "launchMigratePool": false
+        }
+      },
+      {
+        "poolAddress": "3ZQPHrpt5QSM1s4V2Ha8nYBgSSsrjLzuEHZeyZjw2af9",
+        "dex": "raydium",
+        "type": "cpmm",
+        "baseMint": "So11111111111111111111111111111111111111112",
+        "quoteMint": "1xdtu7y3LkkrVCAbm5KGKfYzq1qgKhxxk5AaJBqpump",
+        "baseDecimals": 9,
+        "quoteDecimals": 6,
+        "liquidity": "0",
+        "fee": 0.0025,
+        "vaults": {
+          "xVault": "",
+          "yVault": ""
+        },
+        "xReserve": "1614591330586",
+        "yReserve": "14905514586335",
+        "reserveSource": "api",
+        "isMathReady": true,
+        "_raw": {
+          "type": "Standard",
+          "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+          "id": "3ZQPHrpt5QSM1s4V2Ha8nYBgSSsrjLzuEHZeyZjw2af9",
+          "mintA": {
+            "chainId": 101,
+            "address": "So11111111111111111111111111111111111111112",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+            "symbol": "WSOL",
+            "name": "Wrapped SOL",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "mintB": {
+            "chainId": 101,
+            "address": "1xdtu7y3LkkrVCAbm5KGKfYzq1qgKhxxk5AaJBqpump",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/1xdtu7y3LkkrVCAbm5KGKfYzq1qgKhxxk5AaJBqpump.png",
+            "symbol": "MNSRY",
+            "name": "MANSORY",
+            "decimals": 6,
+            "tags": [],
+            "extensions": {}
+          },
+          "price": 9231.756856346547,
+          "mintAmountA": 1614.591330586,
+          "mintAmountB": 14905514.586335,
+          "feeRate": 0.0025,
+          "openTime": "0",
+          "tvl": 441141.05,
+          "day": {
+            "volume": 294.83564206216,
+            "volumeQuote": 20014.38536433113,
+            "volumeFee": 0.7370891051553998,
+            "apr": 0.06,
+            "feeApr": 0.06,
+            "priceMin": 9212.883654513596,
+            "priceMax": 9241.525361572174,
+            "rewardApr": []
+          },
+          "week": {
+            "volume": 28816.401986190813,
+            "volumeQuote": 1898107.387450232,
+            "volumeFee": 72.04100496547701,
+            "apr": 0.49,
+            "feeApr": 0.49,
+            "priceMin": 8644.015162761776,
+            "priceMax": 9345.444490733851,
+            "rewardApr": []
+          },
+          "month": {
+            "volume": 115869.6347517216,
+            "volumeQuote": 7423757.490455002,
+            "volumeFee": 289.674086879304,
+            "apr": 0.79,
+            "feeApr": 0.79,
+            "priceMin": 7499.426969418507,
+            "priceMax": 9345.444490733851,
+            "rewardApr": []
+          },
+          "pooltype": [
+            "Amm",
+            "OpenBookMarket"
+          ],
+          "rewardDefaultInfos": [],
+          "farmUpcomingCount": 0,
+          "farmOngoingCount": 0,
+          "farmFinishedCount": 0,
+          "marketId": "5tBmTsAbpi5k9V2cZeesaTj9R3vAbJ5MDCAKKvBt9ogb",
+          "lpMint": {
+            "chainId": 101,
+            "address": "2xq6Pm4xYxpMwBwZ5fdA61C9zBdkYzWJqKA4nPfg56jM",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "",
+            "symbol": "",
+            "name": "",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "lpPrice": 109.1111049063,
+          "lpAmount": 4043.0444954,
+          "burnPercent": 100,
+          "launchMigratePool": false
+        }
+      },
+      {
+        "poolAddress": "6MHj1z5BgC1UiTNEWrnJfbGtQPuPdh2qgdWkemGxT2c5",
+        "dex": "raydium",
+        "type": "cpmm",
+        "baseMint": "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB",
+        "quoteMint": "4nswj3o1Lo9iWYvvRJxUD8vbCy9ay7QQoXYcncHNbonk",
+        "baseDecimals": 6,
+        "quoteDecimals": 6,
+        "liquidity": "0",
+        "fee": 0.003,
+        "vaults": {
+          "xVault": "",
+          "yVault": ""
+        },
+        "xReserve": "220284262117",
+        "yReserve": "27561962925619",
+        "reserveSource": "api",
+        "isMathReady": true,
+        "_raw": {
+          "type": "Standard",
+          "programId": "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C",
+          "id": "6MHj1z5BgC1UiTNEWrnJfbGtQPuPdh2qgdWkemGxT2c5",
+          "mintA": {
+            "chainId": 101,
+            "address": "USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/USD1ttGY1N17NEEHLmELoaybftRBUSErhqYiQzvEmuB.png",
+            "symbol": "USD1",
+            "name": "World Liberty Financial USD",
+            "decimals": 6,
+            "tags": [
+              "hasFreeze"
+            ],
+            "extensions": {}
+          },
+          "mintB": {
+            "chainId": 101,
+            "address": "4nswj3o1Lo9iWYvvRJxUD8vbCy9ay7QQoXYcncHNbonk",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "https://img-v1.raydium.io/icon/4nswj3o1Lo9iWYvvRJxUD8vbCy9ay7QQoXYcncHNbonk.png",
+            "symbol": "SPSC",
+            "name": "Shit Piss Skin Can",
+            "decimals": 6,
+            "tags": [],
+            "extensions": {}
+          },
+          "config": {
+            "id": "D4FPEruKEHrG5TenZ2mpDGEfu1iUvTiqBxvpU8HLBvC2",
+            "index": 0,
+            "protocolFeeRate": 120000,
+            "tradeFeeRate": 2500,
+            "fundFeeRate": 40000,
+            "createPoolFee": "150000000",
+            "creatorFeeRate": 500
+          },
+          "price": 125.11998206653529,
+          "mintAmountA": 220284.262117,
+          "mintAmountB": 27561962.925619,
+          "feeRate": 0.003,
+          "openTime": "1762362750",
+          "tvl": 440968.08,
+          "day": {
+            "volume": 920773.9041234195,
+            "volumeQuote": 96852970.75034069,
+            "volumeFee": 2301.934760308549,
+            "apr": 190.54,
+            "feeApr": 190.54,
+            "priceMin": 78.60547290963635,
+            "priceMax": 130.00909702686974,
+            "rewardApr": []
+          },
+          "week": {
+            "volume": 7442300.701629681,
+            "volumeQuote": 600193298.4887494,
+            "volumeFee": 18605.751754074205,
+            "apr": 126.58,
+            "feeApr": 126.58,
+            "priceMin": 59.96011298059862,
+            "priceMax": 130.00909702686974,
+            "rewardApr": []
+          },
+          "month": {
+            "volume": 26348885.72198862,
+            "volumeQuote": 3495378500.568463,
+            "volumeFee": 65872.21430497157,
+            "apr": 179.26,
+            "feeApr": 179.26,
+            "priceMin": 57.76787491318869,
+            "priceMax": 342.94153577115657,
+            "rewardApr": []
+          },
+          "pooltype": [
+            "Cpmm"
+          ],
+          "rewardDefaultInfos": [],
+          "farmUpcomingCount": 0,
+          "farmOngoingCount": 0,
+          "farmFinishedCount": 0,
+          "lpMint": {
+            "chainId": 101,
+            "address": "H5Lb9pPaQasot3UucHqbSBG5HEyZczEektV4wZym6Z8N",
+            "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+            "logoURI": "",
+            "symbol": "",
+            "name": "",
+            "decimals": 9,
+            "tags": [],
+            "extensions": {}
+          },
+          "lpPrice": 325.33412580960555,
+          "lpAmount": 1355.431359317,
+          "burnPercent": 99.97,
+          "launchMigratePool": true
+        }
+      },
+      {
+        "poolAddress": "ies9H9m19fZDxfDeMVRLHCvuTVM9WMTP5ViTcLmfgZc",
+        "dex": "orca",
+        "type": "whirlpool",
+        "baseMint": "So11111111111111111111111111111111111111112",
+        "quoteMint": "2riX3sqar6budJw7qE2PKXKgYuSbmeCp63qxU8MRsoLx",
+        "baseDecimals": 9,
+        "quoteDecimals": 6,
+        "liquidity": "0",
+        "feeRate": 0.0001,
+        "tickSpacing": 1,
+        "vaults": {
+          "aVault": "BBTM8qV5pbT7nAD8hYvZU2Gew6uNx6tkUYiWREm7JEYL",
+          "bVault": "FtHgh1WAJBwHxVN4HZ34QCEhGhpADS7ysr1D3sbAVDNv"
+        },
+        "clmm": {
+          "sqrtPriceX64": "0",
+          "liquidity": "0",
+          "currentTickIndex": 0
+        },
+        "xReserve": "0",
+        "yReserve": "0",
+        "reserveSource": "api",
+        "isMathReady": false,
+        "_raw": {
+          "address": "ies9H9m19fZDxfDeMVRLHCvuTVM9WMTP5ViTcLmfgZc",
+          "tokenA": {
+            "mint": "So11111111111111111111111111111111111111112",
+            "symbol": "SOL",
+            "name": "Solana",
+            "decimals": 9,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/21629/large/solana.jpg?1696520989",
+            "coingeckoId": "solana",
+            "whitelisted": true,
+            "poolToken": false,
+            "token2022": false
+          },
+          "tokenB": {
+            "mint": "2riX3sqar6budJw7qE2PKXKgYuSbmeCp63qxU8MRsoLx",
+            "symbol": "SOLX",
+            "name": "Solaxy",
+            "decimals": 6,
+            "whitelisted": false,
+            "poolToken": false,
+            "token2022": false
+          },
+          "whitelisted": false,
+          "token2022": false,
+          "tickSpacing": 1,
+          "price": 82152.68870071108,
+          "lpFeeRate": 0.0001,
+          "protocolFeeRate": 0.13,
+          "whirlpoolsConfig": "2LecshUwdy9xi7meFgHtFJQNSKk4KdTrcpvaB56dP2NQ",
+          "modifiedTimeMs": 1743123857288,
+          "tvl": 228459312.84837726,
+          "volume": {
+            "day": 213943.35154654682,
+            "week": 213943.35154654682,
+            "month": 213943.35154654682
+          },
+          "volumeDenominatedA": {
+            "day": 1554.6814555082417,
+            "week": 1554.6814555082417,
+            "month": 1554.6814555082417
+          },
+          "volumeDenominatedB": {
+            "day": 127648247.68476321,
+            "week": 127648247.68476321,
+            "month": 127648247.68476321
+          },
+          "feeApr": {
+            "day": 0.00025557327547553126,
+            "week": 0.005724624470991388,
+            "month": 0.005724624470991388
+          },
+          "reward0Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "reward1Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "reward2Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "totalApr": {
+            "day": 0.00025557327547553126,
+            "week": 0.005724624470991388,
+            "month": 0.005724624470991388
+          }
+        }
+      },
+      {
+        "poolAddress": "EsHdGQHE9ehPpEeJkPYZBLqMWptAXHJtQcb91mLL1Ef7",
+        "dex": "orca",
+        "type": "whirlpool",
+        "baseMint": "So11111111111111111111111111111111111111112",
+        "quoteMint": "J4pQFnqAUTg9m7n6Qxgw1VvGvEGmSZGqH2tyKhGPwMtB",
+        "baseDecimals": 9,
+        "quoteDecimals": 9,
+        "liquidity": "0",
+        "feeRate": 0.0001,
+        "tickSpacing": 1,
+        "vaults": {
+          "aVault": "8kZhYeRduqz525WTCWS73xg3LQTDCyqrozuveCT8ejPG",
+          "bVault": "9yVQDF9czmksNKokz1D8vf344Ja5YTa1rdiFNxHTzgcS"
+        },
+        "clmm": {
+          "sqrtPriceX64": "0",
+          "liquidity": "0",
+          "currentTickIndex": 0
+        },
+        "xReserve": "0",
+        "yReserve": "0",
+        "reserveSource": "api",
+        "isMathReady": false,
+        "_raw": {
+          "address": "EsHdGQHE9ehPpEeJkPYZBLqMWptAXHJtQcb91mLL1Ef7",
+          "tokenA": {
+            "mint": "So11111111111111111111111111111111111111112",
+            "symbol": "SOL",
+            "name": "Solana",
+            "decimals": 9,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/21629/large/solana.jpg?1696520989",
+            "coingeckoId": "solana",
+            "whitelisted": true,
+            "poolToken": false,
+            "token2022": false
+          },
+          "tokenB": {
+            "mint": "J4pQFnqAUTg9m7n6Qxgw1VvGvEGmSZGqH2tyKhGPwMtB",
+            "symbol": "GUNZ",
+            "name": "Gunzilla",
+            "decimals": 9,
+            "logoURI": "https://gateway.pinata.cloud/ipfs/QmZdq23vLgPVVYrRgGWo35EZ7XVQQ3cTczHoX5bZkkVqnm",
+            "whitelisted": false,
+            "poolToken": false,
+            "token2022": false
+          },
+          "whitelisted": false,
+          "token2022": false,
+          "tickSpacing": 1,
+          "price": 12498.055357178217,
+          "lpFeeRate": 0.0001,
+          "protocolFeeRate": 0.13,
+          "whirlpoolsConfig": "2LecshUwdy9xi7meFgHtFJQNSKk4KdTrcpvaB56dP2NQ",
+          "modifiedTimeMs": 1743338523875,
+          "tvl": 33844450.96314726,
+          "volume": {
+            "day": 56357.86758197792,
+            "week": 56357.86758197792,
+            "month": 56357.86758197792
+          },
+          "volumeDenominatedA": {
+            "day": 450.92978897687703,
+            "week": 450.92978897687703,
+            "month": 450.92978897687703
+          },
+          "volumeDenominatedB": {
+            "day": 5616925.550934335,
+            "week": 5616925.550934335,
+            "month": 5616925.550934335
+          },
+          "feeApr": {
+            "day": 0.0019981883669883847,
+            "week": 0.0037757839013428437,
+            "month": 0.0037757839013428437
+          },
+          "reward0Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "reward1Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "reward2Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "totalApr": {
+            "day": 0.0019981883669883847,
+            "week": 0.0037757839013428437,
+            "month": 0.0037757839013428437
+          }
+        }
+      },
+      {
+        "poolAddress": "Czfq3xZZDmsdGdUyrNLtRhGc47cXcZtLG4crryfu44zE",
+        "dex": "orca",
+        "type": "whirlpool",
+        "baseMint": "So11111111111111111111111111111111111111112",
+        "quoteMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "baseDecimals": 9,
+        "quoteDecimals": 6,
+        "liquidity": "0",
+        "feeRate": 0.0004,
+        "tickSpacing": 4,
+        "vaults": {
+          "aVault": "64moZQMxLyEYuYxRJHGJ7sm4Qr1ofzMgX6SdkHe9LS8u",
+          "bVault": "4toW5xaxpQL9Qc7SHKzKVHHDLEKCFLPmCGgjpndHu1Fc"
+        },
+        "clmm": {
+          "sqrtPriceX64": "0",
+          "liquidity": "0",
+          "currentTickIndex": 0
+        },
+        "xReserve": "0",
+        "yReserve": "0",
+        "reserveSource": "api",
+        "isMathReady": false,
+        "_raw": {
+          "address": "Czfq3xZZDmsdGdUyrNLtRhGc47cXcZtLG4crryfu44zE",
+          "tokenA": {
+            "mint": "So11111111111111111111111111111111111111112",
+            "symbol": "SOL",
+            "name": "Solana",
+            "decimals": 9,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/21629/large/solana.jpg?1696520989",
+            "coingeckoId": "solana",
+            "whitelisted": true,
+            "poolToken": false,
+            "token2022": false
+          },
+          "tokenB": {
+            "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "symbol": "USDC",
+            "name": "USD Coin",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
+            "coingeckoId": "usd-coin",
+            "whitelisted": true,
+            "poolToken": false,
+            "token2022": false
+          },
+          "whitelisted": true,
+          "token2022": false,
+          "tickSpacing": 4,
+          "price": 127.49637274179749,
+          "lpFeeRate": 0.0004,
+          "protocolFeeRate": 0.13,
+          "whirlpoolsConfig": "2LecshUwdy9xi7meFgHtFJQNSKk4KdTrcpvaB56dP2NQ",
+          "modifiedTimeMs": 1742938567559,
+          "tvl": 32526289.161982324,
+          "volume": {
+            "day": 230667978.94491598,
+            "week": 1500042571.6825666,
+            "month": 12409384514.679773
+          },
+          "volumeDenominatedA": {
+            "day": 1619055.853147625,
+            "week": 11334642.073379762,
+            "month": 88220682.04360838
+          },
+          "volumeDenominatedB": {
+            "day": 230667978.94491598,
+            "week": 1500042571.6825666,
+            "month": 12409384514.679773
+          },
+          "feeApr": {
+            "day": 0.59330467935637,
+            "week": 0.45773125274330634,
+            "month": 0.9506044120044046
+          },
+          "reward0Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "reward1Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "reward2Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "totalApr": {
+            "day": 0.59330467935637,
+            "week": 0.45773125274330634,
+            "month": 0.9506044120044046
+          }
+        }
+      },
+      {
+        "poolAddress": "Hp53XEtt4S8SvPCXarsLSdGfZBuUr5mMmZmX2DRNXQKp",
+        "dex": "orca",
+        "type": "whirlpool",
+        "baseMint": "So11111111111111111111111111111111111111112",
+        "quoteMint": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+        "baseDecimals": 9,
+        "quoteDecimals": 9,
+        "liquidity": "0",
+        "feeRate": 0.0001,
+        "tickSpacing": 1,
+        "vaults": {
+          "aVault": "BXRQ18vF9hSdCkaRu7o6PBpdbsNPRszyE43eL7Rdo6dW",
+          "bVault": "3SXDTYnSc1h4WJ5mWPAtSqNFBYw3RFviytHCkqKtsPNu"
+        },
+        "clmm": {
+          "sqrtPriceX64": "0",
+          "liquidity": "0",
+          "currentTickIndex": 0
+        },
+        "xReserve": "0",
+        "yReserve": "0",
+        "reserveSource": "api",
+        "isMathReady": false,
+        "_raw": {
+          "address": "Hp53XEtt4S8SvPCXarsLSdGfZBuUr5mMmZmX2DRNXQKp",
+          "tokenA": {
+            "mint": "So11111111111111111111111111111111111111112",
+            "symbol": "SOL",
+            "name": "Solana",
+            "decimals": 9,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/21629/large/solana.jpg?1696520989",
+            "coingeckoId": "solana",
+            "whitelisted": true,
+            "poolToken": false,
+            "token2022": false
+          },
+          "tokenB": {
+            "mint": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+            "symbol": "JitoSOL",
+            "name": "Jito Staked SOL",
+            "decimals": 9,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/28046/large/JitoSOL-200.png?1696527060",
+            "coingeckoId": "jito-staked-sol",
+            "whitelisted": true,
+            "poolToken": false,
+            "token2022": false
+          },
+          "whitelisted": true,
+          "token2022": false,
+          "tickSpacing": 1,
+          "price": 0.8400490396166846,
+          "lpFeeRate": 0.0001,
+          "protocolFeeRate": 0.13,
+          "whirlpoolsConfig": "2LecshUwdy9xi7meFgHtFJQNSKk4KdTrcpvaB56dP2NQ",
+          "modifiedTimeMs": 1742938567559,
+          "tvl": 31439173.852664158,
+          "volume": {
+            "day": 20121510.233097326,
+            "week": 110436053.70815639,
+            "month": 1095685601.1219418
+          },
+          "volumeDenominatedA": {
+            "day": 141284.90117823542,
+            "week": 833499.152015392,
+            "month": 7778300.365613789
+          },
+          "volumeDenominatedB": {
+            "day": 118849.70239249832,
+            "week": 701527.3341123601,
+            "month": 6571511.199790428
+          },
+          "feeApr": {
+            "day": 0.011153383511407943,
+            "week": 0.008779962655790287,
+            "month": 0.026639832915436902
+          },
+          "reward0Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "reward1Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "reward2Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "totalApr": {
+            "day": 0.011153383511407943,
+            "week": 0.008779962655790287,
+            "month": 0.026639832915436902
+          }
+        }
+      },
+      {
+        "poolAddress": "AwdyoUww9GSFPEhZswtfpVcVzk9AQi7HbgRHQK3FZxe5",
+        "dex": "orca",
+        "type": "whirlpool",
+        "baseMint": "So11111111111111111111111111111111111111112",
+        "quoteMint": "gkHuGZ7Wp78xj1DhPYZaT332mZgLFWFYUKTfP4jmzBT",
+        "baseDecimals": 9,
+        "quoteDecimals": 9,
+        "liquidity": "0",
+        "feeRate": 0.0001,
+        "tickSpacing": 1,
+        "vaults": {
+          "aVault": "3w8niB2UEwpLeK8QKAstrxAxJqWndR6BQERsp12fG3fa",
+          "bVault": "HSPzcAcwS8ENuYgLqKsiohrqJFgu5mUgctMQsUmv3aAv"
+        },
+        "clmm": {
+          "sqrtPriceX64": "0",
+          "liquidity": "0",
+          "currentTickIndex": 0
+        },
+        "xReserve": "0",
+        "yReserve": "0",
+        "reserveSource": "api",
+        "isMathReady": false,
+        "_raw": {
+          "address": "AwdyoUww9GSFPEhZswtfpVcVzk9AQi7HbgRHQK3FZxe5",
+          "tokenA": {
+            "mint": "So11111111111111111111111111111111111111112",
+            "symbol": "SOL",
+            "name": "Solana",
+            "decimals": 9,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/21629/large/solana.jpg?1696520989",
+            "coingeckoId": "solana",
+            "whitelisted": true,
+            "poolToken": false,
+            "token2022": false
+          },
+          "tokenB": {
+            "mint": "gkHuGZ7Wp78xj1DhPYZaT332mZgLFWFYUKTfP4jmzBT",
+            "symbol": "LCAI",
+            "name": "Lightchain AI",
+            "decimals": 9,
+            "logoURI": "https://gateway.pinata.cloud/ipfs/QmNTxhunuMA75hQdJgVAYB5r7RMLrWpqhnoc3XkKjwpcWQ",
+            "whitelisted": false,
+            "poolToken": false,
+            "token2022": false
+          },
+          "whitelisted": false,
+          "token2022": false,
+          "tickSpacing": 1,
+          "price": 10433.407231313453,
+          "lpFeeRate": 0.0001,
+          "protocolFeeRate": 0.13,
+          "whirlpoolsConfig": "2LecshUwdy9xi7meFgHtFJQNSKk4KdTrcpvaB56dP2NQ",
+          "modifiedTimeMs": 1743234314236,
+          "tvl": 31257012.10127671,
+          "volume": {
+            "day": 347180.13091912086,
+            "week": 347180.13091912086,
+            "month": 347180.13091912086
+          },
+          "volumeDenominatedA": {
+            "day": 2757.467289757727,
+            "week": 2757.467289757727,
+            "month": 2757.467289757727
+          },
+          "volumeDenominatedB": {
+            "day": 28494451.35750547,
+            "week": 28494451.35750547,
+            "month": 28494451.35750547
+          },
+          "feeApr": {
+            "day": 0.005794034686461901,
+            "week": 0.017933665781740993,
+            "month": 0.017933665781740993
+          },
+          "reward0Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "reward1Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "reward2Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "totalApr": {
+            "day": 0.005794034686461901,
+            "week": 0.017933665781740993,
+            "month": 0.017933665781740993
+          }
+        }
+      },
+      {
+        "poolAddress": "CeaZcxBNLpJWtxzt58qQmfMBtJY8pQLvursXTJYGQpbN",
+        "dex": "orca",
+        "type": "whirlpool",
+        "baseMint": "So11111111111111111111111111111111111111112",
+        "quoteMint": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
+        "baseDecimals": 9,
+        "quoteDecimals": 8,
+        "liquidity": "0",
+        "feeRate": 0.0016,
+        "tickSpacing": 16,
+        "vaults": {
+          "aVault": "BvtVG4VgG3cf5okK3fvaQQA3YKXpdtfb3wbmEB7En9mh",
+          "bVault": "HvtyhzcpVNfACmq8hEm9AeHGzTBkvQuSSspftb93Q8jC"
+        },
+        "clmm": {
+          "sqrtPriceX64": "0",
+          "liquidity": "0",
+          "currentTickIndex": 0
+        },
+        "xReserve": "0",
+        "yReserve": "0",
+        "reserveSource": "api",
+        "isMathReady": false,
+        "_raw": {
+          "address": "CeaZcxBNLpJWtxzt58qQmfMBtJY8pQLvursXTJYGQpbN",
+          "tokenA": {
+            "mint": "So11111111111111111111111111111111111111112",
+            "symbol": "SOL",
+            "name": "Solana",
+            "decimals": 9,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/21629/large/solana.jpg?1696520989",
+            "coingeckoId": "solana",
+            "whitelisted": true,
+            "poolToken": false,
+            "token2022": false
+          },
+          "tokenB": {
+            "mint": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
+            "symbol": "cbBTC",
+            "name": "Coinbase Wrapped BTC",
+            "decimals": 8,
+            "logoURI": "https://ipfs.io/ipfs/QmZ7L8yd5j36oXXydUiYFiFsRHbi3EdgC4RuFwvM7dcqge",
+            "coingeckoId": "coinbase-wrapped-btc",
+            "whitelisted": true,
+            "poolToken": false,
+            "token2022": false
+          },
+          "whitelisted": true,
+          "token2022": false,
+          "tickSpacing": 16,
+          "price": 0.001524787507243361,
+          "lpFeeRate": 0.0016,
+          "protocolFeeRate": 0.13,
+          "whirlpoolsConfig": "2LecshUwdy9xi7meFgHtFJQNSKk4KdTrcpvaB56dP2NQ",
+          "modifiedTimeMs": 1742938567559,
+          "tvl": 10487327.11186056,
+          "volume": {
+            "day": 16287492.073426703,
+            "week": 99174305.63184479,
+            "month": 658205180.3642919
+          },
+          "volumeDenominatedA": {
+            "day": 114717.29864893379,
+            "week": 743067.778457208,
+            "month": 4687729.688352128
+          },
+          "volumeDenominatedB": {
+            "day": 186.7469919455581,
+            "week": 1161.183923400763,
+            "month": 7610.366400416474
+          },
+          "feeApr": {
+            "day": 0.5129324257018834,
+            "week": 0.41650669980144694,
+            "month": 0.7753240007854924
+          },
+          "reward0Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "reward1Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "reward2Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "totalApr": {
+            "day": 0.5129324257018834,
+            "week": 0.41650669980144694,
+            "month": 0.7753240007854924
+          }
+        }
+      },
+      {
+        "poolAddress": "6NUiVmsNjsi4AfsMsEiaezsaV9N4N1ZrD4jEnuWNRvyb",
+        "dex": "orca",
+        "type": "whirlpool",
+        "baseMint": "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4",
+        "quoteMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "baseDecimals": 6,
+        "quoteDecimals": 6,
+        "liquidity": "0",
+        "feeRate": 0.0002,
+        "tickSpacing": 2,
+        "vaults": {
+          "aVault": "DoEHhVSwrLoBVjAmCycaX18DENQsZofsFfdr4Uudj31y",
+          "bVault": "3Ln7UUrfxHuL5Pzhk9CR5AdPTxkLBbELbSeX2y16GQFW"
+        },
+        "clmm": {
+          "sqrtPriceX64": "0",
+          "liquidity": "0",
+          "currentTickIndex": 0
+        },
+        "xReserve": "0",
+        "yReserve": "0",
+        "reserveSource": "api",
+        "isMathReady": false,
+        "_raw": {
+          "address": "6NUiVmsNjsi4AfsMsEiaezsaV9N4N1ZrD4jEnuWNRvyb",
+          "tokenA": {
+            "mint": "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4",
+            "symbol": "JLP",
+            "name": "Jupiter Perps LP",
+            "decimals": 6,
+            "logoURI": "https://static.jup.ag/jlp/icon.png",
+            "coingeckoId": "jupiter-perpetuals-liquidity-provider-token",
+            "whitelisted": true,
+            "poolToken": false,
+            "token2022": false
+          },
+          "tokenB": {
+            "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "symbol": "USDC",
+            "name": "USD Coin",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
+            "coingeckoId": "usd-coin",
+            "whitelisted": true,
+            "poolToken": false,
+            "token2022": false
+          },
+          "whitelisted": true,
+          "token2022": false,
+          "tickSpacing": 2,
+          "price": 3.730589903278933,
+          "lpFeeRate": 0.0002,
+          "protocolFeeRate": 0.13,
+          "whirlpoolsConfig": "2LecshUwdy9xi7meFgHtFJQNSKk4KdTrcpvaB56dP2NQ",
+          "modifiedTimeMs": 1742938567559,
+          "tvl": 10178145.560049431,
+          "volume": {
+            "day": 17217155.08553738,
+            "week": 137654115.00447032,
+            "month": 1351463420.6294188
+          },
+          "volumeDenominatedA": {
+            "day": 4379328.513432422,
+            "week": 36258322.33395182,
+            "month": 346055985.00712097
+          },
+          "volumeDenominatedB": {
+            "day": 17217155.08553738,
+            "week": 137654115.00447032,
+            "month": 1351463420.6294188
+          },
+          "feeApr": {
+            "day": 0.0664934615414982,
+            "week": 0.06294139524023921,
+            "month": 0.15253352887528102
+          },
+          "reward0Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "reward1Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "reward2Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "totalApr": {
+            "day": 0.0664934615414982,
+            "week": 0.06294139524023921,
+            "month": 0.15253352887528102
+          }
+        }
+      },
+      {
+        "poolAddress": "9RqDTfwCx2SgxsvKpspQHc38HUo3B6hRd3oR9JR966Ps",
+        "dex": "orca",
+        "type": "whirlpool",
+        "baseMint": "2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH",
+        "quoteMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "baseDecimals": 6,
+        "quoteDecimals": 6,
+        "liquidity": "0",
+        "feeRate": 0.0001,
+        "tickSpacing": 1,
+        "vaults": {
+          "aVault": "7HrPnCxPxTAQ82mmWaRrsQKURqMhTEvu3RRXYkiWcgpv",
+          "bVault": "3HPF1NuBN1vevESthPp2Vt9sfMaRZ9k8GgKQSZPwtRFE"
+        },
+        "clmm": {
+          "sqrtPriceX64": "0",
+          "liquidity": "0",
+          "currentTickIndex": 0
+        },
+        "xReserve": "0",
+        "yReserve": "0",
+        "reserveSource": "api",
+        "isMathReady": false,
+        "_raw": {
+          "address": "9RqDTfwCx2SgxsvKpspQHc38HUo3B6hRd3oR9JR966Ps",
+          "tokenA": {
+            "mint": "2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH",
+            "symbol": "",
+            "name": "",
+            "decimals": 6,
+            "coingeckoId": "global-dollar",
+            "whitelisted": true,
+            "poolToken": false,
+            "token2022": true
+          },
+          "tokenB": {
+            "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "symbol": "USDC",
+            "name": "USD Coin",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
+            "coingeckoId": "usd-coin",
+            "whitelisted": true,
+            "poolToken": false,
+            "token2022": false
+          },
+          "whitelisted": true,
+          "token2022": true,
+          "tickSpacing": 1,
+          "price": 1.0001708733908266,
+          "lpFeeRate": 0.0001,
+          "protocolFeeRate": 0.13,
+          "whirlpoolsConfig": "2LecshUwdy9xi7meFgHtFJQNSKk4KdTrcpvaB56dP2NQ",
+          "modifiedTimeMs": 1742938567559,
+          "tvl": 10149447.823292863,
+          "volume": {
+            "day": 1412521.497236135,
+            "week": 8607276.573877806,
+            "month": 475561657.6498007
+          },
+          "volumeDenominatedA": {
+            "day": 1412591.5410415311,
+            "week": 8607912.744308906,
+            "month": 475372293.6054494
+          },
+          "volumeDenominatedB": {
+            "day": 1412521.497236135,
+            "week": 8607276.573877806,
+            "month": 475561657.6498007
+          },
+          "feeApr": {
+            "day": 0.003252233542589289,
+            "week": 0.0019848789376178204,
+            "month": 0.038355204162080804
+          },
+          "reward0Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "reward1Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "reward2Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "totalApr": {
+            "day": 0.003252233542589289,
+            "week": 0.0019848789376178204,
+            "month": 0.038355204162080804
+          }
+        }
+      },
+      {
+        "poolAddress": "D3LWymVUGhgKKJ33vKq8oHUaGwSuJPTPjnke9QHEXNqz",
+        "dex": "orca",
+        "type": "whirlpool",
+        "baseMint": "AUSD1jCcCyPLybk1YnvPWsHQSrZ46dxwoMniN4N2UEB9",
+        "quoteMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "baseDecimals": 6,
+        "quoteDecimals": 6,
+        "liquidity": "0",
+        "feeRate": 0.0001,
+        "tickSpacing": 1,
+        "vaults": {
+          "aVault": "4TcbM54JDn6WGxtypYoCg3Fr9ATq1Utm17Meh8j1o5AJ",
+          "bVault": "B5y7bRFdDW36nEwbdM4p884ErkHFTGi1gA9AuTJRJkPG"
+        },
+        "clmm": {
+          "sqrtPriceX64": "0",
+          "liquidity": "0",
+          "currentTickIndex": 0
+        },
+        "xReserve": "0",
+        "yReserve": "0",
+        "reserveSource": "api",
+        "isMathReady": false,
+        "_raw": {
+          "address": "D3LWymVUGhgKKJ33vKq8oHUaGwSuJPTPjnke9QHEXNqz",
+          "tokenA": {
+            "mint": "AUSD1jCcCyPLybk1YnvPWsHQSrZ46dxwoMniN4N2UEB9",
+            "symbol": "",
+            "name": "",
+            "decimals": 6,
+            "coingeckoId": "agora-dollar",
+            "whitelisted": true,
+            "poolToken": false,
+            "token2022": true
+          },
+          "tokenB": {
+            "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "symbol": "USDC",
+            "name": "USD Coin",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
+            "coingeckoId": "usd-coin",
+            "whitelisted": true,
+            "poolToken": false,
+            "token2022": false
+          },
+          "whitelisted": true,
+          "token2022": true,
+          "tickSpacing": 1,
+          "price": 0.9994139856450643,
+          "lpFeeRate": 0.0001,
+          "protocolFeeRate": 0.13,
+          "whirlpoolsConfig": "2LecshUwdy9xi7meFgHtFJQNSKk4KdTrcpvaB56dP2NQ",
+          "modifiedTimeMs": 1742938567559,
+          "tvl": 9808664.62323642,
+          "volume": {
+            "day": 124242.35730487594,
+            "week": 1401755.3122749268,
+            "month": 6888584.7008221075
+          },
+          "volumeDenominatedA": {
+            "day": 124160.89421846361,
+            "week": 1400895.634530292,
+            "month": 6886628.520838931
+          },
+          "volumeDenominatedB": {
+            "day": 124242.35730487594,
+            "week": 1401755.3122749268,
+            "month": 6888584.7008221075
+          },
+          "feeApr": {
+            "day": 0.0002355144701189516,
+            "week": 0.00029388087933556855,
+            "month": 0.0003704596659265406
+          },
+          "reward0Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "reward1Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "reward2Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "totalApr": {
+            "day": 0.0002355144701189516,
+            "week": 0.00029388087933556855,
+            "month": 0.0003704596659265406
+          }
+        }
+      },
+      {
+        "poolAddress": "G2FiE1yn9N9ZJx5e1E2LxxMnHvb1H3hCuHLPfKJ98smA",
+        "dex": "orca",
+        "type": "whirlpool",
+        "baseMint": "jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL",
+        "quoteMint": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+        "baseDecimals": 9,
+        "quoteDecimals": 9,
+        "liquidity": "0",
+        "feeRate": 0.003,
+        "tickSpacing": 64,
+        "vaults": {
+          "aVault": "GfarUaeNBVnypF8bY2eRJLrCZijAPT4hwcKMk7mMTe1L",
+          "bVault": "CaG1EotvBMntCJKek3au5rQjogzhLTaiAa5nRk6mMj55"
+        },
+        "clmm": {
+          "sqrtPriceX64": "0",
+          "liquidity": "0",
+          "currentTickIndex": 0
+        },
+        "xReserve": "0",
+        "yReserve": "0",
+        "reserveSource": "api",
+        "isMathReady": false,
+        "_raw": {
+          "address": "G2FiE1yn9N9ZJx5e1E2LxxMnHvb1H3hCuHLPfKJ98smA",
+          "tokenA": {
+            "mint": "jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL",
+            "symbol": "JTO",
+            "name": "JITO",
+            "decimals": 9,
+            "logoURI": "https://metadata.jito.network/token/jto/image",
+            "coingeckoId": "jito-governance-token",
+            "whitelisted": true,
+            "poolToken": false,
+            "token2022": false
+          },
+          "tokenB": {
+            "mint": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+            "symbol": "JitoSOL",
+            "name": "Jito Staked SOL",
+            "decimals": 9,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/28046/large/JitoSOL-200.png?1696527060",
+            "coingeckoId": "jito-staked-sol",
+            "whitelisted": true,
+            "poolToken": false,
+            "token2022": false
+          },
+          "whitelisted": true,
+          "token2022": false,
+          "tickSpacing": 64,
+          "price": 0.01509842616234957,
+          "lpFeeRate": 0.003,
+          "protocolFeeRate": 0.13,
+          "whirlpoolsConfig": "2LecshUwdy9xi7meFgHtFJQNSKk4KdTrcpvaB56dP2NQ",
+          "modifiedTimeMs": 1742938567559,
+          "tvl": 6752811.5785147175,
+          "volume": {
+            "day": 2010288.8423918306,
+            "week": 12511384.595332231,
+            "month": 93763956.63457371
+          },
+          "volumeDenominatedA": {
+            "day": 859589.824836747,
+            "week": 5734660.675481951,
+            "month": 38917663.08895313
+          },
+          "volumeDenominatedB": {
+            "day": 11805.296371301289,
+            "week": 79855.84425207703,
+            "month": 561913.8580137646
+          },
+          "feeApr": {
+            "day": 0.1652363204080915,
+            "week": 0.14389036797642957,
+            "month": 0.2499281116101368
+          },
+          "reward0Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "reward1Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "reward2Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "totalApr": {
+            "day": 0.1652363204080915,
+            "week": 0.14389036797642957,
+            "month": 0.2499281116101368
+          }
+        }
+      },
+      {
+        "poolAddress": "7riFsDxbskTqDtCSjev2jN9hyAJqeKmbWqgfiWD6ikUC",
+        "dex": "orca",
+        "type": "whirlpool",
+        "baseMint": "A1KLoBrKBde8Ty9qtNQUtq3C2ortoC3u7twggz7sEto6",
+        "quoteMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "baseDecimals": 6,
+        "quoteDecimals": 6,
+        "liquidity": "0",
+        "feeRate": 0.0001,
+        "tickSpacing": 1,
+        "vaults": {
+          "aVault": "9PXE5RUR7K4R8oz5zpUiGLQdcwXyfCU5K4tFoNJpVtMz",
+          "bVault": "5riXkB1ZRDQ7K5TRT6DbQtnkzCs8h3Pncb51fbUAyPdc"
+        },
+        "clmm": {
+          "sqrtPriceX64": "0",
+          "liquidity": "0",
+          "currentTickIndex": 0
+        },
+        "xReserve": "0",
+        "yReserve": "0",
+        "reserveSource": "api",
+        "isMathReady": false,
+        "_raw": {
+          "address": "7riFsDxbskTqDtCSjev2jN9hyAJqeKmbWqgfiWD6ikUC",
+          "tokenA": {
+            "mint": "A1KLoBrKBde8Ty9qtNQUtq3C2ortoC3u7twggz7sEto6",
+            "symbol": "USDY",
+            "name": "Ondo US Dollar Yield",
+            "decimals": 6,
+            "coingeckoId": "ondo-us-dollar-yield",
+            "whitelisted": true,
+            "poolToken": false,
+            "token2022": false
+          },
+          "tokenB": {
+            "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "symbol": "USDC",
+            "name": "USD Coin",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
+            "coingeckoId": "usd-coin",
+            "whitelisted": true,
+            "poolToken": false,
+            "token2022": false
+          },
+          "whitelisted": true,
+          "token2022": false,
+          "tickSpacing": 1,
+          "price": 1.0829206521190757,
+          "lpFeeRate": 0.0001,
+          "protocolFeeRate": 0.13,
+          "whirlpoolsConfig": "2LecshUwdy9xi7meFgHtFJQNSKk4KdTrcpvaB56dP2NQ",
+          "modifiedTimeMs": 1742938567559,
+          "tvl": 6570602.43917745,
+          "volume": {
+            "day": 31442.97373539522,
+            "week": 1267913.2124408262,
+            "month": 69406024.4881994
+          },
+          "volumeDenominatedA": {
+            "day": 29061.055979909273,
+            "week": 1172186.0184441449,
+            "month": 64228986.86699056
+          },
+          "volumeDenominatedB": {
+            "day": 31442.97373539522,
+            "week": 1267913.2124408262,
+            "month": 69406024.4881994
+          },
+          "feeApr": {
+            "day": 0.00008536988081511841,
+            "week": 0.000386556496624268,
+            "month": 0.00522537126196911
+          },
+          "reward0Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "reward1Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "reward2Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "totalApr": {
+            "day": 0.00008536988081511841,
+            "week": 0.000386556496624268,
+            "month": 0.00522537126196911
+          }
+        }
+      },
+      {
+        "poolAddress": "HxA6SKW5qA4o12fjVgTpXdq2YnZ5Zv1s7SB4FFomsyLM",
+        "dex": "orca",
+        "type": "whirlpool",
+        "baseMint": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
+        "quoteMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "baseDecimals": 8,
+        "quoteDecimals": 6,
+        "liquidity": "0",
+        "feeRate": 0.0004,
+        "tickSpacing": 4,
+        "vaults": {
+          "aVault": "Gz7tQ6JSeqRtxLfvWHA4s5qauown1XpSAuw5Dqd7ADTC",
+          "bVault": "87haDpSfv9aU8QdzLx4pHhigTVH9JTUqKgTYBqpiU9vW"
+        },
+        "clmm": {
+          "sqrtPriceX64": "0",
+          "liquidity": "0",
+          "currentTickIndex": 0
+        },
+        "xReserve": "0",
+        "yReserve": "0",
+        "reserveSource": "api",
+        "isMathReady": false,
+        "_raw": {
+          "address": "HxA6SKW5qA4o12fjVgTpXdq2YnZ5Zv1s7SB4FFomsyLM",
+          "tokenA": {
+            "mint": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
+            "symbol": "cbBTC",
+            "name": "Coinbase Wrapped BTC",
+            "decimals": 8,
+            "logoURI": "https://ipfs.io/ipfs/QmZ7L8yd5j36oXXydUiYFiFsRHbi3EdgC4RuFwvM7dcqge",
+            "coingeckoId": "coinbase-wrapped-btc",
+            "whitelisted": true,
+            "poolToken": false,
+            "token2022": false
+          },
+          "tokenB": {
+            "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "symbol": "USDC",
+            "name": "USD Coin",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
+            "coingeckoId": "usd-coin",
+            "whitelisted": true,
+            "poolToken": false,
+            "token2022": false
+          },
+          "whitelisted": true,
+          "token2022": false,
+          "tickSpacing": 4,
+          "price": 83684.40278151903,
+          "lpFeeRate": 0.0004,
+          "protocolFeeRate": 0.13,
+          "whirlpoolsConfig": "2LecshUwdy9xi7meFgHtFJQNSKk4KdTrcpvaB56dP2NQ",
+          "modifiedTimeMs": 1742938567559,
+          "tvl": 5809601.222246253,
+          "volume": {
+            "day": 21164476.251783185,
+            "week": 218445724.21287057,
+            "month": 1401350528.4013333
+          },
+          "volumeDenominatedA": {
+            "day": 242.07268662669253,
+            "week": 2577.3956131637947,
+            "month": 16400.752784009946
+          },
+          "volumeDenominatedB": {
+            "day": 21164476.251783185,
+            "week": 218445724.21287057,
+            "month": 1401350528.4013333
+          },
+          "feeApr": {
+            "day": 0.31067876060764565,
+            "week": 0.3274674294051244,
+            "month": 0.8573177011426553
+          },
+          "reward0Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "reward1Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "reward2Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "totalApr": {
+            "day": 0.31067876060764565,
+            "week": 0.3274674294051244,
+            "month": 0.8573177011426553
+          }
+        }
+      },
+      {
+        "poolAddress": "9tXiuRRw7kbejLhZXtxDxYs2REe43uH2e7k1kocgdM9B",
+        "dex": "orca",
+        "type": "whirlpool",
+        "baseMint": "2b1kV6DkPAnxd5ixfnxCpjxmKwqjjaYmCZfHsFu24GXo",
+        "quoteMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "baseDecimals": 6,
+        "quoteDecimals": 6,
+        "liquidity": "0",
+        "feeRate": 0.0001,
+        "tickSpacing": 1,
+        "vaults": {
+          "aVault": "GcP6r8P3NLqia4oo25UED9omsH8me9vpepQ3k1w8RsHS",
+          "bVault": "5993m7CGgJCm8syg5rKq117joPyy8z5w9qmodaHvHnTT"
+        },
+        "clmm": {
+          "sqrtPriceX64": "0",
+          "liquidity": "0",
+          "currentTickIndex": 0
+        },
+        "xReserve": "0",
+        "yReserve": "0",
+        "reserveSource": "api",
+        "isMathReady": false,
+        "_raw": {
+          "address": "9tXiuRRw7kbejLhZXtxDxYs2REe43uH2e7k1kocgdM9B",
+          "tokenA": {
+            "mint": "2b1kV6DkPAnxd5ixfnxCpjxmKwqjjaYmCZfHsFu24GXo",
+            "symbol": "PYUSD",
+            "name": "PayPal USD",
+            "decimals": 6,
+            "logoURI": "https://424565.fs1.hubspotusercontent-na1.net/hubfs/424565/PYUSDLOGO.png",
+            "coingeckoId": "paypal-usd",
+            "whitelisted": true,
+            "poolToken": false,
+            "token2022": true
+          },
+          "tokenB": {
+            "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "symbol": "USDC",
+            "name": "USD Coin",
+            "decimals": 6,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
+            "coingeckoId": "usd-coin",
+            "whitelisted": true,
+            "poolToken": false,
+            "token2022": false
+          },
+          "whitelisted": true,
+          "token2022": true,
+          "tickSpacing": 1,
+          "price": 0.9997031319099241,
+          "lpFeeRate": 0.0001,
+          "protocolFeeRate": 0.13,
+          "whirlpoolsConfig": "2LecshUwdy9xi7meFgHtFJQNSKk4KdTrcpvaB56dP2NQ",
+          "modifiedTimeMs": 1742938567559,
+          "tvl": 5372196.749193131,
+          "volume": {
+            "day": 4039707.038000655,
+            "week": 25153928.109793343,
+            "month": 206151564.18086207
+          },
+          "volumeDenominatedA": {
+            "day": 4039493.527638093,
+            "week": 25158569.848621782,
+            "month": 206140186.85292757
+          },
+          "volumeDenominatedB": {
+            "day": 4039707.038000655,
+            "week": 25153928.109793343,
+            "month": 206151564.18086207
+          },
+          "feeApr": {
+            "day": 0.011305673488993345,
+            "week": 0.009327370409041877,
+            "month": 0.013299539866331544
+          },
+          "reward0Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0.002017876317454837
+          },
+          "reward1Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "reward2Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "totalApr": {
+            "day": 0.011305673488993345,
+            "week": 0.009327370409041877,
+            "month": 0.01531741618378638
+          }
+        }
+      },
+      {
+        "poolAddress": "B5EwJVDuAauzUEEdwvbuXzbFFgEYnUqqS37TUM1c4PQA",
+        "dex": "orca",
+        "type": "whirlpool",
+        "baseMint": "So11111111111111111111111111111111111111112",
+        "quoteMint": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+        "baseDecimals": 9,
+        "quoteDecimals": 8,
+        "liquidity": "0",
+        "feeRate": 0.0005,
+        "tickSpacing": 8,
+        "vaults": {
+          "aVault": "9uRaVKofwLj5QFxinFd8A2t9gEB4xCdg6TRpdzYxuJs9",
+          "bVault": "J81dQZV85MB3mApCABPR2KisLJppnqhrqwt5iLww1nBf"
+        },
+        "clmm": {
+          "sqrtPriceX64": "0",
+          "liquidity": "0",
+          "currentTickIndex": 0
+        },
+        "xReserve": "0",
+        "yReserve": "0",
+        "reserveSource": "api",
+        "isMathReady": false,
+        "_raw": {
+          "address": "B5EwJVDuAauzUEEdwvbuXzbFFgEYnUqqS37TUM1c4PQA",
+          "tokenA": {
+            "mint": "So11111111111111111111111111111111111111112",
+            "symbol": "SOL",
+            "name": "Solana",
+            "decimals": 9,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/21629/large/solana.jpg?1696520989",
+            "coingeckoId": "solana",
+            "whitelisted": true,
+            "poolToken": false,
+            "token2022": false
+          },
+          "tokenB": {
+            "mint": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+            "symbol": "WBTC",
+            "name": "Wrapped BTC (Wormhole)",
+            "decimals": 8,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/23004/large/WBTC_wh_small.png?1696522299",
+            "coingeckoId": "wrapped-btc-wormhole",
+            "whitelisted": true,
+            "poolToken": false,
+            "token2022": false
+          },
+          "whitelisted": true,
+          "token2022": false,
+          "tickSpacing": 8,
+          "price": 0.0015247534004551302,
+          "lpFeeRate": 0.0005,
+          "protocolFeeRate": 0.13,
+          "whirlpoolsConfig": "2LecshUwdy9xi7meFgHtFJQNSKk4KdTrcpvaB56dP2NQ",
+          "modifiedTimeMs": 1742938567559,
+          "tvl": 5319196.54760222,
+          "volume": {
+            "day": 19329592.899051912,
+            "week": 132675223.1802131,
+            "month": 1042276713.9208913
+          },
+          "volumeDenominatedA": {
+            "day": 135424.1497940148,
+            "week": 1001360.142385449,
+            "month": 7423725.698197801
+          },
+          "volumeDenominatedB": {
+            "day": 221.5171451319019,
+            "week": 1561.0268018749136,
+            "month": 12084.631342926616
+          },
+          "feeApr": {
+            "day": 0.3888953643583823,
+            "week": 0.3247586659225317,
+            "month": 0.6934557562338793
+          },
+          "reward0Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "reward1Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "reward2Apr": {
+            "day": 0,
+            "week": 0,
+            "month": 0
+          },
+          "totalApr": {
+            "day": 0.3888953643583823,
+            "week": 0.3247586659225317,
+            "month": 0.6934557562338793
+          }
+        }
+      },
+      {
+        "poolAddress": "9d9mb8kooFfaD3SctgZtkxQypkshx6ezhbKio89ixyy2",
+        "dex": "meteora",
+        "type": "dlmm",
+        "baseMint": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+        "quoteMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "baseDecimals": 6,
+        "quoteDecimals": 6,
+        "fee": 0.001,
+        "vaults": {
+          "xVault": "AK93dERw7MJsGFBUPfV1bkXzDviJZM1K6vg2yGDugk7L",
+          "yVault": "81BadRGfaHFpAmuXpJ65k8tYtUWsZ54EFSmsVo1rbDTV"
+        },
+        "xReserve": "21720601547969",
+        "yReserve": "37851684571631",
+        "reserveSource": "cache",
+        "isMathReady": true,
+        "_raw": {
+          "address": "9d9mb8kooFfaD3SctgZtkxQypkshx6ezhbKio89ixyy2",
+          "name": "TRUMP-USDC",
+          "mint_x": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+          "mint_y": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "reserve_x": "AK93dERw7MJsGFBUPfV1bkXzDviJZM1K6vg2yGDugk7L",
+          "reserve_y": "81BadRGfaHFpAmuXpJ65k8tYtUWsZ54EFSmsVo1rbDTV",
+          "reserve_x_amount": 21720601547969,
+          "reserve_y_amount": 37851684571631,
+          "bin_step": 50,
+          "base_fee_percentage": "0.1",
+          "max_fee_percentage": "1.6625001",
+          "protocol_fee_percentage": "5",
+          "liquidity": "140285186.3819152",
+          "reward_mint_x": "11111111111111111111111111111111",
+          "reward_mint_y": "11111111111111111111111111111111",
+          "fees_24h": 26665.241964234752,
+          "today_fees": 9858.35730042297,
+          "trade_volume_24h": 27693892.25474292,
+          "cumulative_trade_volume": "30547725773.4200",
+          "cumulative_fee_volume": "33488415.7400",
+          "current_price": 4.716775502703778,
+          "apr": 0.019007881481969708,
+          "apy": 7.18350446270366,
+          "farm_apr": 0,
+          "farm_apy": 0,
+          "hide": false,
+          "is_blacklisted": false,
+          "fees": {
+            "min_30": 114.36777758991131,
+            "hour_1": 585.72062658255,
+            "hour_2": 1468.9239468570868,
+            "hour_4": 3269.9830234051515,
+            "hour_12": 8448.160795333104,
+            "hour_24": 26665.241964234752
+          },
+          "fee_tvl_ratio": {
+            "min_30": 0.00008152519916005542,
+            "hour_1": 0.00041752136607494137,
+            "hour_2": 0.0010470984034323188,
+            "hour_4": 0.002330953900223566,
+            "hour_12": 0.006022133208230313,
+            "hour_24": 0.019007881481969708
+          },
+          "volume": {
+            "min_30": 120387.11726032433,
+            "hour_1": 616547.7334066686,
+            "hour_2": 1539331.7282080853,
+            "hour_4": 3434964.5395459356,
+            "hour_12": 8856275.507013356,
+            "hour_24": 27693892.25474292
+          },
+          "tags": [],
+          "launchpad": null,
+          "is_verified": true
+        },
+        "hasReserves": true
+      },
+      {
+        "poolAddress": "DQ9weJhfiU4iL5LUoeshDrm5KxDHCMiSbnnKJz7buMcf",
+        "dex": "meteora",
+        "type": "dlmm",
+        "baseMint": "DrZ26cKJDksVRWib3DVVsjo9eeXccc7hKhDJviiYEEZY",
+        "quoteMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "baseDecimals": 0,
+        "quoteDecimals": 6,
+        "fee": 0.01,
+        "vaults": {
+          "xVault": "7B9apQQARoF3af9RE9PWqZNinUWz7bNw4WnbaHke1udR",
+          "yVault": "8hd7iwBe6UH9EM7ca5eALRV6fXf8Q1LUEaDnsUPbggTc"
+        },
+        "xReserve": "121215928005680",
+        "yReserve": "2351064083394",
+        "reserveSource": "cache",
+        "isMathReady": true,
+        "_raw": {
+          "address": "DQ9weJhfiU4iL5LUoeshDrm5KxDHCMiSbnnKJz7buMcf",
+          "name": "YZY-USDC",
+          "mint_x": "DrZ26cKJDksVRWib3DVVsjo9eeXccc7hKhDJviiYEEZY",
+          "mint_y": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "reserve_x": "7B9apQQARoF3af9RE9PWqZNinUWz7bNw4WnbaHke1udR",
+          "reserve_y": "8hd7iwBe6UH9EM7ca5eALRV6fXf8Q1LUEaDnsUPbggTc",
+          "reserve_x_amount": 121215928005680,
+          "reserve_y_amount": 2351064083394,
+          "bin_step": 100,
+          "base_fee_percentage": "1",
+          "max_fee_percentage": "2.6875001",
+          "protocol_fee_percentage": "5",
+          "liquidity": "45839847.01170552",
+          "reward_mint_x": "11111111111111111111111111111111",
+          "reward_mint_y": "11111111111111111111111111111111",
+          "fees_24h": 39.943860855966875,
+          "today_fees": 24.671171106181806,
+          "trade_volume_24h": 4204.615505931282,
+          "cumulative_trade_volume": "542431053.2300",
+          "cumulative_fee_volume": "11505949.7800",
+          "current_price": 0.3588380602650283,
+          "apr": 0.00008713785812977721,
+          "apy": 0.03181036278447902,
+          "farm_apr": 0,
+          "farm_apy": 0,
+          "hide": false,
+          "is_blacklisted": false,
+          "fees": {
+            "min_30": 0,
+            "hour_1": 0.17181002314716404,
+            "hour_2": 0.22126610667267838,
+            "hour_4": 0.844902509992459,
+            "hour_12": 24.671171106181802,
+            "hour_24": 39.943860855966875
+          },
+          "fee_tvl_ratio": {
+            "min_30": 0,
+            "hour_1": 3.7480496630647823e-7,
+            "hour_2": 4.826938157454508e-7,
+            "hour_4": 0.0000018431617142542105,
+            "hour_12": 0.00005382036091848616,
+            "hour_24": 0.00008713785812977721
+          },
+          "volume": {
+            "min_30": 0,
+            "hour_1": 18.085101760682328,
+            "hour_2": 23.29093293577052,
+            "hour_4": 88.93683375817687,
+            "hour_12": 2596.964619638501,
+            "hour_24": 4204.615505931282
+          },
+          "tags": [],
+          "launchpad": null,
+          "is_verified": true
+        },
+        "hasReserves": true
+      },
+      {
+        "poolAddress": "3C5YE97HADPDxZehYq9Cis8AXr9aNyrUsczKzE1nDbW9",
+        "dex": "meteora",
+        "type": "dlmm",
+        "baseMint": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+        "quoteMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "baseDecimals": 6,
+        "quoteDecimals": 6,
+        "fee": 0.001,
+        "vaults": {
+          "xVault": "DBxLBME3MbN1oEQhah8adNxYFwuLwhkr7BM3SEJ4uoTC",
+          "yVault": "HbFACE7GxA7XP9PrwYBiR7ZvBbQh7fmUFcRJWrPDt51M"
+        },
+        "xReserve": "3287165155547",
+        "yReserve": "3963918702071",
+        "reserveSource": "cache",
+        "isMathReady": true,
+        "_raw": {
+          "address": "3C5YE97HADPDxZehYq9Cis8AXr9aNyrUsczKzE1nDbW9",
+          "name": "TRUMP-USDC",
+          "mint_x": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+          "mint_y": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "reserve_x": "DBxLBME3MbN1oEQhah8adNxYFwuLwhkr7BM3SEJ4uoTC",
+          "reserve_y": "HbFACE7GxA7XP9PrwYBiR7ZvBbQh7fmUFcRJWrPDt51M",
+          "reserve_x_amount": 3287165155547,
+          "reserve_y_amount": 3963918702071,
+          "bin_step": 10,
+          "base_fee_percentage": "0.1",
+          "max_fee_percentage": "0.5900001",
+          "protocol_fee_percentage": "5",
+          "liquidity": "19513390.67754179",
+          "reward_mint_x": "11111111111111111111111111111111",
+          "reward_mint_y": "11111111111111111111111111111111",
+          "fees_24h": 4105.228945474616,
+          "today_fees": 1307.103660844239,
+          "trade_volume_24h": 4240441.039505312,
+          "cumulative_trade_volume": "254047792.4400",
+          "cumulative_fee_volume": "304468.9100",
+          "current_price": 4.731408876817391,
+          "apr": 0.021038009299938716,
+          "apy": 7.98052034228891,
+          "farm_apr": 0,
+          "farm_apy": 0,
+          "hide": false,
+          "is_blacklisted": false,
+          "fees": {
+            "min_30": 66.15932759872787,
+            "hour_1": 66.15932759872787,
+            "hour_2": 130.56909215452933,
+            "hour_4": 300.04760616085696,
+            "hour_12": 1210.1174651649137,
+            "hour_24": 4105.228945474616
+          },
+          "fee_tvl_ratio": {
+            "min_30": 0.0003390457798545052,
+            "hour_1": 0.0003390457798545052,
+            "hour_2": 0.0006691255984783976,
+            "hour_4": 0.0015376497663534487,
+            "hour_12": 0.006201472030986667,
+            "hour_24": 0.021038009299938716
+          },
+          "volume": {
+            "min_30": 69588.5255397381,
+            "hour_1": 69588.5255397381,
+            "hour_2": 137196.12392793194,
+            "hour_4": 315343.71311656514,
+            "hour_12": 1267647.3433023295,
+            "hour_24": 4240441.039505312
+          },
+          "tags": [],
+          "launchpad": null,
+          "is_verified": true
+        },
+        "hasReserves": true
+      },
+      {
+        "poolAddress": "9DiruRpjnAnzhn6ts5HGLouHtJrT1JGsPbXNYCrFz2ad",
+        "dex": "meteora",
+        "type": "dlmm",
+        "baseMint": "FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P",
+        "quoteMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "baseDecimals": 0,
+        "quoteDecimals": 6,
+        "fee": 0.015,
+        "vaults": {
+          "xVault": "7dY6amxDBCSG2fEnTAJiyXbe4z19kQSRk9DM5wrYzsuN",
+          "yVault": "4FWoCg5Ukne58ytBe9Ki578USggRfcj8rqpLW78s8jDV"
+        },
+        "xReserve": "99171615869154",
+        "yReserve": "2258298220586",
+        "reserveSource": "cache",
+        "isMathReady": true,
+        "_raw": {
+          "address": "9DiruRpjnAnzhn6ts5HGLouHtJrT1JGsPbXNYCrFz2ad",
+          "name": "MELANIA-USDC",
+          "mint_x": "FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P",
+          "mint_y": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "reserve_x": "7dY6amxDBCSG2fEnTAJiyXbe4z19kQSRk9DM5wrYzsuN",
+          "reserve_y": "4FWoCg5Ukne58ytBe9Ki578USggRfcj8rqpLW78s8jDV",
+          "reserve_x_amount": 99171615869154,
+          "reserve_y_amount": 2258298220586,
+          "bin_step": 100,
+          "base_fee_percentage": "1.5",
+          "max_fee_percentage": "1.5",
+          "protocol_fee_percentage": "20",
+          "liquidity": "13702195.433644466",
+          "reward_mint_x": "11111111111111111111111111111111",
+          "reward_mint_y": "11111111111111111111111111111111",
+          "fees_24h": 531.6785187129616,
+          "today_fees": 189.93754054980073,
+          "trade_volume_24h": 44084.87263202222,
+          "cumulative_trade_volume": "3272339428.7000",
+          "cumulative_fee_volume": "39268420.8700",
+          "current_price": 0.11541490253769424,
+          "apr": 0.0038802432886592356,
+          "apy": 1.426337817659662,
+          "farm_apr": 0,
+          "farm_apy": 0,
+          "hide": false,
+          "is_blacklisted": false,
+          "fees": {
+            "min_30": 0,
+            "hour_1": 3.0934097133214564,
+            "hour_2": 47.66608573998812,
+            "hour_4": 47.66608573998812,
+            "hour_12": 189.50316135335902,
+            "hour_24": 531.6785187129616
+          },
+          "fee_tvl_ratio": {
+            "min_30": 0,
+            "hour_1": 0.000022576015123283653,
+            "hour_2": 0.0003478718864492947,
+            "hour_4": 0.0003478718864492947,
+            "hour_12": 0.0013830131256780329,
+            "hour_24": 0.0038802432886592356
+          },
+          "volume": {
+            "min_30": 0,
+            "hour_1": 257.7841363538022,
+            "hour_2": 3972.173785468453,
+            "hour_4": 3972.173785468453,
+            "hour_12": 15570.259776681238,
+            "hour_24": 44084.87263202222
+          },
+          "tags": [
+            "blp",
+            "lfg"
+          ],
+          "launchpad": null,
+          "is_verified": true
+        },
+        "hasReserves": true
+      },
+      {
+        "poolAddress": "AXXo7N2gcLeVyo8nDsN99UW8Fv6NCsa2DP21WD3SKtM3",
+        "dex": "meteora",
+        "type": "dlmm",
+        "baseMint": "JDzPbXboQYWVmdxXS3LbvjM52RtsV1QaSv2AzoCiai2o",
+        "quoteMint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+        "baseDecimals": 0,
+        "quoteDecimals": 6,
+        "fee": 0.002,
+        "vaults": {
+          "xVault": "ny86TuzrFavYy1BTbLuCJGep3TfnGGwS155jtcrFiNd",
+          "yVault": "spqB46cNDN7LYuwf9BtwgwY6DFbPZjijGVAQeHkf41A"
+        },
+        "xReserve": "22903927116884",
+        "yReserve": "4726503120905",
+        "reserveSource": "cache",
+        "isMathReady": true,
+        "_raw": {
+          "address": "AXXo7N2gcLeVyo8nDsN99UW8Fv6NCsa2DP21WD3SKtM3",
+          "name": "FO-USDT",
+          "mint_x": "JDzPbXboQYWVmdxXS3LbvjM52RtsV1QaSv2AzoCiai2o",
+          "mint_y": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+          "reserve_x": "ny86TuzrFavYy1BTbLuCJGep3TfnGGwS155jtcrFiNd",
+          "reserve_y": "spqB46cNDN7LYuwf9BtwgwY6DFbPZjijGVAQeHkf41A",
+          "reserve_x_amount": 22903927116884,
+          "reserve_y_amount": 4726503120905,
+          "bin_step": 100,
+          "base_fee_percentage": "0.2",
+          "max_fee_percentage": "1.8875001",
+          "protocol_fee_percentage": "5",
+          "liquidity": "12926960.393730529",
+          "reward_mint_x": "11111111111111111111111111111111",
+          "reward_mint_y": "11111111111111111111111111111111",
+          "fees_24h": 5384.661422286152,
+          "today_fees": 107.90284834166526,
+          "trade_volume_24h": 2833496.3356866916,
+          "cumulative_trade_volume": "437752493.3000",
+          "cumulative_fee_volume": "1857626.8900",
+          "current_price": 0.3588380602650283,
+          "apr": 0.041654505454334564,
+          "apy": 16.416872105336356,
+          "farm_apr": 0,
+          "farm_apy": 0,
+          "hide": false,
+          "is_blacklisted": false,
+          "fees": {
+            "min_30": 6.7499255572944525,
+            "hour_1": 6.7499255572944525,
+            "hour_2": 12.018689732658045,
+            "hour_4": 77.03866975201817,
+            "hour_12": 107.70569181841773,
+            "hour_24": 5384.661422286152
+          },
+          "fee_tvl_ratio": {
+            "min_30": 0.00005221587559414286,
+            "hour_1": 0.00005221587559414286,
+            "hour_2": 0.00009297382653455805,
+            "hour_4": 0.0005959534755701835,
+            "hour_12": 0.0008331865228786043,
+            "hour_24": 0.041654505454334564
+          },
+          "volume": {
+            "min_30": 3551.763711628704,
+            "hour_1": 3551.763711628704,
+            "hour_2": 6322.793726083372,
+            "hour_4": 40542.46999502719,
+            "hour_12": 56678.15917012453,
+            "hour_24": 2833496.3356866916
+          },
+          "tags": [],
+          "launchpad": null,
+          "is_verified": true
+        },
+        "hasReserves": true
+      },
+      {
+        "poolAddress": "6CnzQUJqFBdPUsB1XT7TPYUoKUn8NRML23SyNwwxAQr2",
+        "dex": "meteora",
+        "type": "dlmm",
+        "baseMint": "FkiJSGKDMjRip1MFKa4bxVUtZBA2hkpBHdTfEW8E4iQj",
+        "quoteMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "baseDecimals": 0,
+        "quoteDecimals": 6,
+        "fee": 0.001,
+        "vaults": {
+          "xVault": "F2ECn4wN5XjTJmTsXVxjaPuwFQ9UVifXTAoNCMuEjM1o",
+          "yVault": "9U7rU3xYcxBS3dUaSd6nZfZjQHLFeaaMBizZCtkiYcd"
+        },
+        "xReserve": "395706223991172",
+        "yReserve": "1994936103931",
+        "reserveSource": "cache",
+        "isMathReady": true,
+        "_raw": {
+          "address": "6CnzQUJqFBdPUsB1XT7TPYUoKUn8NRML23SyNwwxAQr2",
+          "name": "ANB-USDC",
+          "mint_x": "FkiJSGKDMjRip1MFKa4bxVUtZBA2hkpBHdTfEW8E4iQj",
+          "mint_y": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "reserve_x": "F2ECn4wN5XjTJmTsXVxjaPuwFQ9UVifXTAoNCMuEjM1o",
+          "reserve_y": "9U7rU3xYcxBS3dUaSd6nZfZjQHLFeaaMBizZCtkiYcd",
+          "reserve_x_amount": 395706223991172,
+          "reserve_y_amount": 1994936103931,
+          "bin_step": 10,
+          "base_fee_percentage": "0.1",
+          "max_fee_percentage": "0.5900001",
+          "protocol_fee_percentage": "5",
+          "liquidity": "9962694.554304043",
+          "reward_mint_x": "11111111111111111111111111111111",
+          "reward_mint_y": "11111111111111111111111111111111",
+          "fees_24h": 211.94614421192387,
+          "today_fees": 60.97478972628338,
+          "trade_volume_24h": 215839.0005008536,
+          "cumulative_trade_volume": "11182124.4900",
+          "cumulative_fee_volume": "10883.0400",
+          "current_price": 0.020139991749346428,
+          "apr": 0.0021273977944085394,
+          "apy": 0.7795144522185549,
+          "farm_apr": 0,
+          "farm_apy": 0,
+          "hide": false,
+          "is_blacklisted": false,
+          "fees": {
+            "min_30": 1.9433907618987827,
+            "hour_1": 3.838158056936876,
+            "hour_2": 8.503922320237146,
+            "hour_4": 14.496556119205087,
+            "hour_12": 57.131045002759336,
+            "hour_24": 211.94614421192387
+          },
+          "fee_tvl_ratio": {
+            "min_30": 0.00001950667815123577,
+            "hour_1": 0.00003852530092151356,
+            "hour_2": 0.00008535765373398219,
+            "hour_4": 0.00014550838671393716,
+            "hour_12": 0.0005734497298030463,
+            "hour_24": 0.0021273977944085394
+          },
+          "volume": {
+            "min_30": 2045.3908953918863,
+            "hour_1": 4036.9722249518973,
+            "hour_2": 8943.285037076823,
+            "hour_4": 15245.519260656132,
+            "hour_12": 60033.38434330956,
+            "hour_24": 215839.0005008536
+          },
+          "tags": [],
+          "launchpad": null,
+          "is_verified": true
+        },
+        "hasReserves": true
+      },
+      {
+        "poolAddress": "HAqNAPe4dW5rWzSfw2jZF9tYU81viUBGimTpwto7XEbA",
+        "dex": "meteora",
+        "type": "dlmm",
+        "baseMint": "5JkQBPrYdRK7JsC39KPPbZi7r6uLx3ZuL7jjMf4zN4c",
+        "quoteMint": "METvsvVRapdj9cFLzq4Tr43xK4tAjQfwX76z3n6mWQL",
+        "baseDecimals": 0,
+        "quoteDecimals": 0,
+        "fee": 0.1,
+        "vaults": {
+          "xVault": "8qqvv2pEz6dF7gt7M54tuv48jmiwXgRAnaPTFQuruzqh",
+          "yVault": "HVXM9SVV5CvPCpJLUKR4P365vJAJALajnwe1sGEnKh5X"
+        },
+        "xReserve": "581346173485",
+        "yReserve": "25484",
+        "reserveSource": "cache",
+        "isMathReady": true,
+        "_raw": {
+          "address": "HAqNAPe4dW5rWzSfw2jZF9tYU81viUBGimTpwto7XEbA",
+          "name": "UCF-MET",
+          "mint_x": "5JkQBPrYdRK7JsC39KPPbZi7r6uLx3ZuL7jjMf4zN4c",
+          "mint_y": "METvsvVRapdj9cFLzq4Tr43xK4tAjQfwX76z3n6mWQL",
+          "reserve_x": "8qqvv2pEz6dF7gt7M54tuv48jmiwXgRAnaPTFQuruzqh",
+          "reserve_y": "HVXM9SVV5CvPCpJLUKR4P365vJAJALajnwe1sGEnKh5X",
+          "reserve_x_amount": 581346173485,
+          "reserve_y_amount": 25484,
+          "bin_step": 250,
+          "base_fee_percentage": "10",
+          "max_fee_percentage": "10",
+          "protocol_fee_percentage": "5",
+          "liquidity": "9573490.059028951",
+          "reward_mint_x": "11111111111111111111111111111111",
+          "reward_mint_y": "11111111111111111111111111111111",
+          "fees_24h": 0,
+          "today_fees": 0,
+          "trade_volume_24h": 0,
+          "cumulative_trade_volume": "276.2500",
+          "cumulative_fee_volume": "26.2700",
+          "current_price": 64913.23472293228,
+          "apr": 0,
+          "apy": 0,
+          "farm_apr": 0,
+          "farm_apy": 0,
+          "hide": false,
+          "is_blacklisted": false,
+          "fees": {
+            "min_30": 0,
+            "hour_1": 0,
+            "hour_2": 0,
+            "hour_4": 0,
+            "hour_12": 0,
+            "hour_24": 0
+          },
+          "fee_tvl_ratio": {
+            "min_30": 0,
+            "hour_1": 0,
+            "hour_2": 0,
+            "hour_4": 0,
+            "hour_12": 0,
+            "hour_24": 0
+          },
+          "volume": {
+            "min_30": 0,
+            "hour_1": 0,
+            "hour_2": 0,
+            "hour_4": 0,
+            "hour_12": 0,
+            "hour_24": 0
+          },
+          "tags": [],
+          "launchpad": null,
+          "is_verified": true
+        },
+        "hasReserves": true
+      },
+      {
+        "poolAddress": "2gdjgchz31VdaAxmERiAbTAJbzAtGBei7LAwAMV45P1M",
+        "dex": "meteora",
+        "type": "dlmm",
+        "baseMint": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
+        "quoteMint": "LBTCgU4b3wsFKsPwBn1rRZDx5DoFutM6RPiEt1TPDsY",
+        "baseDecimals": 8,
+        "quoteDecimals": 0,
+        "fee": 0.0001,
+        "vaults": {
+          "xVault": "355tUC4DgRAEoveiK7HZZorDi4uUjUBgaXxxUu8n66kT",
+          "yVault": "FJ65qEyAcDAqFPNwHDtDw13awnBSeqb5HEVZhuP74dcL"
+        },
+        "xReserve": "3015235158",
+        "yReserve": "4120659501",
+        "reserveSource": "cache",
+        "isMathReady": true,
+        "_raw": {
+          "address": "2gdjgchz31VdaAxmERiAbTAJbzAtGBei7LAwAMV45P1M",
+          "name": "cbBTC-LBTC",
+          "mint_x": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
+          "mint_y": "LBTCgU4b3wsFKsPwBn1rRZDx5DoFutM6RPiEt1TPDsY",
+          "reserve_x": "355tUC4DgRAEoveiK7HZZorDi4uUjUBgaXxxUu8n66kT",
+          "reserve_y": "FJ65qEyAcDAqFPNwHDtDw13awnBSeqb5HEVZhuP74dcL",
+          "reserve_x_amount": 3015235158,
+          "reserve_y_amount": 4120659501,
+          "bin_step": 1,
+          "base_fee_percentage": "0.01",
+          "max_fee_percentage": "0.0300001",
+          "protocol_fee_percentage": "5",
+          "liquidity": "6273349.853206222",
+          "reward_mint_x": "11111111111111111111111111111111",
+          "reward_mint_y": "11111111111111111111111111111111",
+          "fees_24h": 3.64992153567447,
+          "today_fees": 3.1077538251958314,
+          "trade_volume_24h": 38294.78109648577,
+          "cumulative_trade_volume": "89197478.0700",
+          "cumulative_fee_volume": "8821.7200",
+          "current_price": 0.9988007796361368,
+          "apr": 0.000058181380300495215,
+          "apy": 0.02123845267043567,
+          "farm_apr": 0,
+          "farm_apy": 0,
+          "hide": false,
+          "is_blacklisted": false,
+          "fees": {
+            "min_30": 1.9165471591424235,
+            "hour_1": 1.9165471591424235,
+            "hour_2": 1.9279463994918271,
+            "hour_4": 1.9279463994918271,
+            "hour_12": 3.0867357588762196,
+            "hour_24": 3.64992153567447
+          },
+          "fee_tvl_ratio": {
+            "min_30": 0.000030550618154396455,
+            "hour_1": 0.000030550618154396455,
+            "hour_2": 0.00003073232713948642,
+            "hour_4": 0.00003073232713948642,
+            "hour_12": 0.00004920394735037186,
+            "hour_24": 0.000058181380300495215
+          },
+          "volume": {
+            "min_30": 20162.03658868693,
+            "hour_1": 20162.03658868693,
+            "hour_2": 20264.998676021587,
+            "hour_4": 20264.998676021587,
+            "hour_12": 32428.210556125625,
+            "hour_24": 38294.78109648577
+          },
+          "tags": [],
+          "launchpad": null,
+          "is_verified": true
+        },
+        "hasReserves": true
+      },
+      {
+        "poolAddress": "BGm1tav58oGcsQJehL9WXBFXF7D27vZsKefj4xJKD5Y",
+        "dex": "meteora",
+        "type": "dlmm",
+        "baseMint": "So11111111111111111111111111111111111111112",
+        "quoteMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "baseDecimals": 9,
+        "quoteDecimals": 6,
+        "fee": 0.001,
+        "vaults": {
+          "xVault": "DwZz4S1Z1LBXomzmncQRVKCYhjCqSAMQ6RPKbUAadr7H",
+          "yVault": "4N22J4vW2juHocTntJNmXywSonYjkndCwahjZ2cYLDgb"
+        },
+        "xReserve": "35919513112489",
+        "yReserve": "1066090736111",
+        "reserveSource": "cache",
+        "isMathReady": true,
+        "_raw": {
+          "address": "BGm1tav58oGcsQJehL9WXBFXF7D27vZsKefj4xJKD5Y",
+          "name": "SOL-USDC",
+          "mint_x": "So11111111111111111111111111111111111111112",
+          "mint_y": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "reserve_x": "DwZz4S1Z1LBXomzmncQRVKCYhjCqSAMQ6RPKbUAadr7H",
+          "reserve_y": "4N22J4vW2juHocTntJNmXywSonYjkndCwahjZ2cYLDgb",
+          "reserve_x_amount": 35919513112489,
+          "reserve_y_amount": 1066090736111,
+          "bin_step": 10,
+          "base_fee_percentage": "0.1",
+          "max_fee_percentage": "0.5900001",
+          "protocol_fee_percentage": "5",
+          "liquidity": "5552472.864507035",
+          "reward_mint_x": "11111111111111111111111111111111",
+          "reward_mint_y": "11111111111111111111111111111111",
+          "fees_24h": 6271.979150073308,
+          "today_fees": 879.1180831145883,
+          "trade_volume_24h": 5535654.489414703,
+          "cumulative_trade_volume": "8761557104.6900",
+          "cumulative_fee_volume": "8741553.2700",
+          "current_price": 124.93518537621385,
+          "apr": 0.11295830350050982,
+          "apy": 50.99327609785791,
+          "farm_apr": 0,
+          "farm_apy": 0,
+          "hide": false,
+          "is_blacklisted": false,
+          "fees": {
+            "min_30": 0.6216167780128701,
+            "hour_1": 18.969471751662123,
+            "hour_2": 55.389962313478534,
+            "hour_4": 142.66780973465657,
+            "hour_12": 647.6139629458557,
+            "hour_24": 6271.979150073308
+          },
+          "fee_tvl_ratio": {
+            "min_30": 0.000011195314109257858,
+            "hour_1": 0.0003416400622670362,
+            "hour_2": 0.0009975728592488352,
+            "hour_4": 0.0025694463208749607,
+            "hour_12": 0.011663523239988906,
+            "hour_24": 0.11295830350050982
+          },
+          "volume": {
+            "min_30": 653.3648897900324,
+            "hour_1": 19962.533785402637,
+            "hour_2": 58214.50093272862,
+            "hour_4": 149953.29311681396,
+            "hour_12": 680284.6115874089,
+            "hour_24": 5535654.489414703
+          },
+          "tags": [],
+          "launchpad": null,
+          "is_verified": true
+        },
+        "hasReserves": true
+      },
+      {
+        "poolAddress": "BVRbyLjjfSBcoyiYFuxbgKYnWuiFaF9CSXEa5vdSZ9Hh",
+        "dex": "meteora",
+        "type": "dlmm",
+        "baseMint": "So11111111111111111111111111111111111111112",
+        "quoteMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "baseDecimals": 9,
+        "quoteDecimals": 6,
+        "fee": 0.002,
+        "vaults": {
+          "xVault": "FMzVsENjscefpAtUJYBUTeJAYaKNfFQBHjTZE1AQRFYY",
+          "yVault": "7du3jFJK4rhf9JnZSQmhr6qPkgdQyJ88528qyxpYPPtL"
+        },
+        "xReserve": "24470351373202",
+        "yReserve": "1842652298435",
+        "reserveSource": "cache",
+        "isMathReady": true,
+        "_raw": {
+          "address": "BVRbyLjjfSBcoyiYFuxbgKYnWuiFaF9CSXEa5vdSZ9Hh",
+          "name": "SOL-USDC",
+          "mint_x": "So11111111111111111111111111111111111111112",
+          "mint_y": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "reserve_x": "FMzVsENjscefpAtUJYBUTeJAYaKNfFQBHjTZE1AQRFYY",
+          "reserve_y": "7du3jFJK4rhf9JnZSQmhr6qPkgdQyJ88528qyxpYPPtL",
+          "reserve_x_amount": 24470351373202,
+          "reserve_y_amount": 1842652298435,
+          "bin_step": 20,
+          "base_fee_percentage": "0.2",
+          "max_fee_percentage": "1.1800001",
+          "protocol_fee_percentage": "5",
+          "liquidity": "4899531.90118315",
+          "reward_mint_x": "11111111111111111111111111111111",
+          "reward_mint_y": "11111111111111111111111111111111",
+          "fees_24h": 5146.7377544247465,
+          "today_fees": 772.0399116475664,
+          "trade_volume_24h": 2677637.459539732,
+          "cumulative_trade_volume": "5247068342.9800",
+          "cumulative_fee_volume": "10380442.0700",
+          "current_price": 124.9401105812049,
+          "apr": 0.10504549941152339,
+          "apy": 46.699315491103064,
+          "farm_apr": 0,
+          "farm_apy": 0,
+          "hide": false,
+          "is_blacklisted": false,
+          "fees": {
+            "min_30": 0.032845619155441555,
+            "hour_1": 0.051122168761337655,
+            "hour_2": 0.10390657439602662,
+            "hour_4": 71.22396206723639,
+            "hour_12": 501.2366617922858,
+            "hour_24": 5146.7377544247465
+          },
+          "fee_tvl_ratio": {
+            "min_30": 6.703828001917882e-7,
+            "hour_1": 0.0000010434092438298558,
+            "hour_2": 0.0000021207449301623085,
+            "hour_4": 0.0014536891177305542,
+            "hour_12": 0.010230296932473204,
+            "hour_24": 0.10504549941152339
+          },
+          "volume": {
+            "min_30": 17.286408940744902,
+            "hour_1": 26.90486903042868,
+            "hour_2": 54.5042942530062,
+            "hour_4": 37486.067955102735,
+            "hour_12": 263775.92054405453,
+            "hour_24": 2677637.459539732
+          },
+          "tags": [],
+          "launchpad": null,
+          "is_verified": true
+        },
+        "hasReserves": true
+      },
+      {
+        "poolAddress": "BoeMUkCLHchTD31HdXsbDExuZZfcUppSLpYtV3LZTH6U",
+        "dex": "meteora",
+        "type": "dlmm",
+        "baseMint": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+        "quoteMint": "So11111111111111111111111111111111111111112",
+        "baseDecimals": 9,
+        "quoteDecimals": 9,
+        "fee": 0.0001,
+        "vaults": {
+          "xVault": "93d6ukn24o1xMcMDip2SACKG8GbvhGUZim1e3ZEcQVm2",
+          "yVault": "CodroyzrRNvc5kHRoAQYjpVSr1jA9fLcUWVFouiuWGsD"
+        },
+        "xReserve": "7326592542345",
+        "yReserve": "26604455960565",
+        "reserveSource": "cache",
+        "isMathReady": true,
+        "_raw": {
+          "address": "BoeMUkCLHchTD31HdXsbDExuZZfcUppSLpYtV3LZTH6U",
+          "name": "JitoSOL-SOL",
+          "mint_x": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+          "mint_y": "So11111111111111111111111111111111111111112",
+          "reserve_x": "93d6ukn24o1xMcMDip2SACKG8GbvhGUZim1e3ZEcQVm2",
+          "reserve_y": "CodroyzrRNvc5kHRoAQYjpVSr1jA9fLcUWVFouiuWGsD",
+          "reserve_x_amount": 7326592542345,
+          "reserve_y_amount": 26604455960565,
+          "bin_step": 1,
+          "base_fee_percentage": "0.01",
+          "max_fee_percentage": "0.0300001",
+          "protocol_fee_percentage": "5",
+          "liquidity": "4465158.089416826",
+          "reward_mint_x": "11111111111111111111111111111111",
+          "reward_mint_y": "11111111111111111111111111111111",
+          "fees_24h": 195.38123342923794,
+          "today_fees": 89.56689185246299,
+          "trade_volume_24h": 1987546.8555960397,
+          "cumulative_trade_volume": "3050434176.7900",
+          "cumulative_fee_volume": "307742.9100",
+          "current_price": 1.2520582044181607,
+          "apr": 0.004375684567413733,
+          "apy": 1.6099115735109804,
+          "farm_apr": 0,
+          "farm_apy": 0,
+          "hide": false,
+          "is_blacklisted": false,
+          "fees": {
+            "min_30": 1.0810246844954934,
+            "hour_1": 1.1224674487698438,
+            "hour_2": 12.640803653789506,
+            "hour_4": 24.399168690302634,
+            "hour_12": 43.137128224065926,
+            "hour_24": 195.38123342923794
+          },
+          "fee_tvl_ratio": {
+            "min_30": 0.000024210221964093573,
+            "hour_1": 0.00002513835851479212,
+            "hour_2": 0.0002830986809571274,
+            "hour_4": 0.0005464345987689161,
+            "hour_12": 0.0009660828880013936,
+            "hour_24": 0.004375684567413733
+          },
+          "volume": {
+            "min_30": 11378.003911991991,
+            "hour_1": 11814.159018547358,
+            "hour_2": 133059.79362689538,
+            "hour_4": 256831.937235988,
+            "hour_12": 453994.61059365026,
+            "hour_24": 1987546.8555960397
+          },
+          "tags": [],
+          "launchpad": null,
+          "is_verified": true
+        },
+        "hasReserves": true
+      },
+      {
+        "poolAddress": "EXXfbVutbuexDZtPw8pkSvWxLFoUMBHd544CAGkmtPZm",
+        "dex": "meteora",
+        "type": "dlmm",
+        "baseMint": "JDzPbXboQYWVmdxXS3LbvjM52RtsV1QaSv2AzoCiai2o",
+        "quoteMint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+        "baseDecimals": 0,
+        "quoteDecimals": 6,
+        "fee": 0.0001,
+        "vaults": {
+          "xVault": "DUPWJ2V3MQSEchkQiVxpMTE1DvvNLug62RPtgUwafjNk",
+          "yVault": "HcUQGGZChJhdywtHf8hnUEngYDg3D1xVGFCbzwHHMZr6"
+        },
+        "xReserve": "6693955030408",
+        "yReserve": "2010543412714",
+        "reserveSource": "cache",
+        "isMathReady": true,
+        "_raw": {
+          "address": "EXXfbVutbuexDZtPw8pkSvWxLFoUMBHd544CAGkmtPZm",
+          "name": "FO-USDT",
+          "mint_x": "JDzPbXboQYWVmdxXS3LbvjM52RtsV1QaSv2AzoCiai2o",
+          "mint_y": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+          "reserve_x": "DUPWJ2V3MQSEchkQiVxpMTE1DvvNLug62RPtgUwafjNk",
+          "reserve_y": "HcUQGGZChJhdywtHf8hnUEngYDg3D1xVGFCbzwHHMZr6",
+          "reserve_x_amount": 6693955030408,
+          "reserve_y_amount": 2010543412714,
+          "bin_step": 10,
+          "base_fee_percentage": "0.01",
+          "max_fee_percentage": "0.5000001",
+          "protocol_fee_percentage": "5",
+          "liquidity": "4409686.819298209",
+          "reward_mint_x": "11111111111111111111111111111111",
+          "reward_mint_y": "11111111111111111111111111111111",
+          "fees_24h": 102.8600322980662,
+          "today_fees": 18.92752250232579,
+          "trade_volume_24h": 778550.1551208685,
+          "cumulative_trade_volume": "451475795.6100",
+          "cumulative_fee_volume": "57570.8800",
+          "current_price": 0.3593392534361042,
+          "apr": 0.0023325926877146375,
+          "apy": 0.855021002897538,
+          "farm_apr": 0,
+          "farm_apy": 0,
+          "hide": false,
+          "is_blacklisted": false,
+          "fees": {
+            "min_30": 0.7881555521106831,
+            "hour_1": 1.4624153854492732,
+            "hour_2": 2.8564493799257207,
+            "hour_4": 6.1349465497521045,
+            "hour_12": 16.792549213702397,
+            "hour_24": 102.8600322980662
+          },
+          "fee_tvl_ratio": {
+            "min_30": 0.00001787327727360276,
+            "hour_1": 0.00003316370176333777,
+            "hour_2": 0.00006477669496674864,
+            "hour_4": 0.00013912431429151847,
+            "hour_12": 0.0003808104725309017,
+            "hour_24": 0.0023325926877146375
+          },
+          "volume": {
+            "min_30": 7654.167814709558,
+            "hour_1": 14330.386702515367,
+            "hour_2": 28007.6310771713,
+            "hour_4": 59809.63833928834,
+            "hour_12": 164840.30463495213,
+            "hour_24": 778550.1551208685
+          },
+          "tags": [],
+          "launchpad": null,
+          "is_verified": true
+        },
+        "hasReserves": true
+      },
+      {
+        "poolAddress": "J27e5izvX4nbaaRDjMKv7DogQzcPidCAECxzE6rK4bF7",
+        "dex": "meteora",
+        "type": "dlmm",
+        "baseMint": "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4",
+        "quoteMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "baseDecimals": 6,
+        "quoteDecimals": 6,
+        "fee": 0.0015,
+        "vaults": {
+          "xVault": "7oVR2PnDc3tYsKBrvs8WJzb8jYRYhUjC3uDeMPGQFfPq",
+          "yVault": "BDtKzGh8MAH2wZR8MQDG2RZZ1HuecGoJn4XtJ4osimAi"
+        },
+        "xReserve": "868405560911",
+        "yReserve": "472962167652",
+        "reserveSource": "cache",
+        "isMathReady": true,
+        "_raw": {
+          "address": "J27e5izvX4nbaaRDjMKv7DogQzcPidCAECxzE6rK4bF7",
+          "name": "JLP-USDC",
+          "mint_x": "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4",
+          "mint_y": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "reserve_x": "7oVR2PnDc3tYsKBrvs8WJzb8jYRYhUjC3uDeMPGQFfPq",
+          "reserve_y": "BDtKzGh8MAH2wZR8MQDG2RZZ1HuecGoJn4XtJ4osimAi",
+          "reserve_x_amount": 868405560911,
+          "reserve_y_amount": 472962167652,
+          "bin_step": 15,
+          "base_fee_percentage": "0.15",
+          "max_fee_percentage": "0.9768751",
+          "protocol_fee_percentage": "5",
+          "liquidity": "4401092.759526408",
+          "reward_mint_x": "11111111111111111111111111111111",
+          "reward_mint_y": "11111111111111111111111111111111",
+          "fees_24h": 622.7059779448343,
+          "today_fees": 175.09742474087057,
+          "trade_volume_24h": 435244.4286911147,
+          "cumulative_trade_volume": "337268316.5700",
+          "cumulative_fee_volume": "488241.9200",
+          "current_price": 4.523871965139507,
+          "apr": 0.014148894648879029,
+          "apy": 5.29963978736141,
+          "farm_apr": 0,
+          "farm_apy": 0,
+          "hide": false,
+          "is_blacklisted": false,
+          "fees": {
+            "min_30": 0,
+            "hour_1": 0,
+            "hour_2": 21.077851002774487,
+            "hour_4": 25.326216433465355,
+            "hour_12": 100.33693465964544,
+            "hour_24": 622.7059779448343
+          },
+          "fee_tvl_ratio": {
+            "min_30": 0,
+            "hour_1": 0,
+            "hour_2": 0.0004789231255612669,
+            "hour_4": 0.0005754529117489143,
+            "hour_12": 0.002279818675542809,
+            "hour_24": 0.014148894648879029
+          },
+          "volume": {
+            "min_30": 0,
+            "hour_1": 0,
+            "hour_2": 14791.460530659097,
+            "hour_4": 17772.764407094513,
+            "hour_12": 70387.23515791855,
+            "hour_24": 435244.4286911147
+          },
+          "tags": [],
+          "launchpad": null,
+          "is_verified": true
+        },
+        "hasReserves": true
+      },
+      {
+        "poolAddress": "DdMA1cHcHEqYfttc1z1sJEY978CcU1pyjNuTWTNmdvzU",
+        "dex": "meteora",
+        "type": "dlmm",
+        "baseMint": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+        "quoteMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "baseDecimals": 6,
+        "quoteDecimals": 6,
+        "fee": 0.0025,
+        "vaults": {
+          "xVault": "4yEhbP1sdJkAuXGBsaRLJM3L77sdaCd75XAiLNHeJFW2",
+          "yVault": "EDvUo5pGB5EgudYv3P8tVtbHQhDPy8fWDWj5j3TvUHcP"
+        },
+        "xReserve": "347072139679145",
+        "yReserve": "387029158200",
+        "reserveSource": "cache",
+        "isMathReady": true,
+        "_raw": {
+          "address": "DdMA1cHcHEqYfttc1z1sJEY978CcU1pyjNuTWTNmdvzU",
+          "name": "PENGU-USDC",
+          "mint_x": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+          "mint_y": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "reserve_x": "4yEhbP1sdJkAuXGBsaRLJM3L77sdaCd75XAiLNHeJFW2",
+          "reserve_y": "EDvUo5pGB5EgudYv3P8tVtbHQhDPy8fWDWj5j3TvUHcP",
+          "reserve_x_amount": 347072139679145,
+          "reserve_y_amount": 387029158200,
+          "bin_step": 25,
+          "base_fee_percentage": "0.25",
+          "max_fee_percentage": "1.3984376",
+          "protocol_fee_percentage": "5",
+          "liquidity": "3422160.458157638",
+          "reward_mint_x": "11111111111111111111111111111111",
+          "reward_mint_y": "11111111111111111111111111111111",
+          "fees_24h": 2438.6886300847395,
+          "today_fees": 710.1254395383364,
+          "trade_volume_24h": 1016752.5222036735,
+          "cumulative_trade_volume": "102736510.8400",
+          "cumulative_fee_volume": "248318.0600",
+          "current_price": 0.008746701536686797,
+          "apr": 0.0712616681743099,
+          "apy": 29.69462403277534,
+          "farm_apr": 0,
+          "farm_apy": 0,
+          "hide": false,
+          "is_blacklisted": false,
+          "fees": {
+            "min_30": 61.737691067153534,
+            "hour_1": 84.88152298524304,
+            "hour_2": 154.674932126065,
+            "hour_4": 185.5708254816429,
+            "hour_12": 556.5277311349337,
+            "hour_24": 2438.6886300847395
+          },
+          "fee_tvl_ratio": {
+            "min_30": 0.0018040559997701212,
+            "hour_1": 0.00248034900826772,
+            "hour_2": 0.004519803615793519,
+            "hour_4": 0.005422621988378278,
+            "hour_12": 0.0162624674657876,
+            "hour_24": 0.0712616681743099
+          },
+          "volume": {
+            "min_30": 25994.202711414608,
+            "hour_1": 35738.97369776827,
+            "hour_2": 65022.98256379004,
+            "hour_4": 78021.68481617622,
+            "hour_12": 233919.1305498409,
+            "hour_24": 1016752.5222036735
+          },
+          "tags": [],
+          "launchpad": null,
+          "is_verified": true
+        },
+        "hasReserves": true
+      },
+      {
+        "poolAddress": "F1KKNyUCsQcZLRjwQ4abX6Ri8gDAQ46nHwSHFKA5sFQv",
+        "dex": "meteora",
+        "type": "dlmm",
+        "baseMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "quoteMint": "CLoUDKc4Ane7HeQcPpE3YHnznRxhMimJ4MyaUqyHFzAu",
+        "baseDecimals": 6,
+        "quoteDecimals": 0,
+        "fee": 0.002,
+        "vaults": {
+          "xVault": "4bi7CDbp3HpybnKoMd1g3LDLhT6c5WF9GKT6cEfKBZpC",
+          "yVault": "3qoB4PJrfRS3Q5oE8AUm1pYf7BLUyUGn3Tv8kELSB8RH"
+        },
+        "xReserve": "459589233456",
+        "yReserve": "31488915063986720",
+        "reserveSource": "cache",
+        "isMathReady": true,
+        "_raw": {
+          "address": "F1KKNyUCsQcZLRjwQ4abX6Ri8gDAQ46nHwSHFKA5sFQv",
+          "name": "USDC-CLOUD",
+          "mint_x": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "mint_y": "CLoUDKc4Ane7HeQcPpE3YHnznRxhMimJ4MyaUqyHFzAu",
+          "reserve_x": "4bi7CDbp3HpybnKoMd1g3LDLhT6c5WF9GKT6cEfKBZpC",
+          "reserve_y": "3qoB4PJrfRS3Q5oE8AUm1pYf7BLUyUGn3Tv8kELSB8RH",
+          "reserve_x_amount": 459589233456,
+          "reserve_y_amount": 31488915063986720,
+          "bin_step": 20,
+          "base_fee_percentage": "0.2",
+          "max_fee_percentage": "1.1800001",
+          "protocol_fee_percentage": "5",
+          "liquidity": "2805516.5117670917",
+          "reward_mint_x": "11111111111111111111111111111111",
+          "reward_mint_y": "11111111111111111111111111111111",
+          "fees_24h": 75.22173976498384,
+          "today_fees": 66.87791376380584,
+          "trade_volume_24h": 39373.58905180943,
+          "cumulative_trade_volume": "401312356.9700",
+          "cumulative_fee_volume": "857564.0900",
+          "current_price": 13.419963173020143,
+          "apr": 0.0026812082356130716,
+          "apy": 0.9834321082628383,
+          "farm_apr": 0,
+          "farm_apy": 0,
+          "hide": false,
+          "is_blacklisted": false,
+          "fees": {
+            "min_30": 0.01899664095231386,
+            "hour_1": 0.01899664095231386,
+            "hour_2": 5.473232333713349,
+            "hour_4": 12.72990089202414,
+            "hour_12": 56.80374789910805,
+            "hour_24": 75.22173976498384
+          },
+          "fee_tvl_ratio": {
+            "min_30": 6.77117417510709e-7,
+            "hour_1": 6.77117417510709e-7,
+            "hour_2": 0.0001950882238887969,
+            "hour_4": 0.00045374535628756805,
+            "hour_12": 0.00202471622109005,
+            "hour_24": 0.0026812082356130716
+          },
+          "volume": {
+            "min_30": 9.998232080165188,
+            "hour_1": 9.998232080165188,
+            "hour_2": 2870.2942382326605,
+            "hour_4": 6687.459822678908,
+            "hour_12": 29706.64452548055,
+            "hour_24": 39373.58905180943
+          },
+          "tags": [],
+          "launchpad": null,
+          "is_verified": true
+        },
+        "hasReserves": true
+      }
+]

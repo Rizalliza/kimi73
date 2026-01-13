@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-01-12T16:20:21.548Z",
+  "poolAddress": "9d9mb8kooFfaD3SctgZtkxQypkshx6ezhbKio89ixyy2",
+  "amount": "1000000000",
+  "fastQuote": {
+    "inAmountRaw": "1000000000",
+    "outAmountRaw": "5364488272",
+    "minOutAmountRaw": "5337665830",
+    "inAmountDecimal": 1000,
+    "outAmountDecimal": 5364.488272,
+    "minOutAmountDecimal": 5337.66583,
+    "executionPrice": 5.364488272,
+    "priceImpact": 0,
+    "fee": 0.001,
+    "poolAddress": "9d9mb8kooFfaD3SctgZtkxQypkshx6ezhbKio89ixyy2",
+    "dexType": "METEORA_DLMM",
+    "swapForY": true,
+    "binArrays": [
+      "AhFkieZeKce2tcFYkHPnUVkanKLUQaLEPXhHaruPuNVe",
+      "3Qh5LF2HvpswExRQTrjGRiy535EeheZdZBzqYutYGiC1"
+    ],
+    "success": true,
+    "error": null
+  },
+  "exactQuote": {
+    "inAmountRaw": "1000000000",
+    "outAmountRaw": "5364488272",
+    "minOutAmountRaw": "5337665830",
+    "inAmountDecimal": 1000,
+    "outAmountDecimal": 5364.488272,
+    "minOutAmountDecimal": 5337.66583,
+    "executionPrice": 5.364488272,
+    "priceImpact": 0,
+    "fee": 0.001,
+    "poolAddress": "9d9mb8kooFfaD3SctgZtkxQypkshx6ezhbKio89ixyy2",
+    "dexType": "METEORA_DLMM",
+    "swapForY": true,
+    "binArrays": [
+      "AhFkieZeKce2tcFYkHPnUVkanKLUQaLEPXhHaruPuNVe",
+      "3Qh5LF2HvpswExRQTrjGRiy535EeheZdZBzqYutYGiC1",
+      "1jzYpspa2Yaykfw5pNJY242Pt22yB8PjNMq2GCTxhZ4",
+      "3MysKYcjD3Lxf9TfqpSXLD2sMZoMxgmkzoXpAYfq8uFc"
+    ],
+    "success": true,
+    "error": null
+  }
+}
